@@ -9,7 +9,7 @@ permalink: /resources/
 [SCCAF](): 
 [SCQUA]():
 [kBET]():
-[Brain Cell Atlas](www.braincellatlas.org):
+[Brain Cell Atlas](http://www.braincellatlas.org):
 
 ## Computational Structural biology tools:
 [RNA-Puzzles](www.rnapuzzles.org):
