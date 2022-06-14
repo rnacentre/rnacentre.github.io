@@ -1,3 +1,12 @@
+- title: "Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations."
+  image: nneuron.jpeg
+  description: 
+  authors: Hao, Z.-Z., Wei, J.-R., Xiao, D., Liu, R., Xu, N., Tang, L., Huang, M., Shen, Y., Xing, C., Huang, W., Liu, X., Xiang, M.#, Liu, Y.#, <b>Miao, Z.#</b> & Liu, S.#
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35637371/
+    display: Nat. Neurosci. 1–13 (2022).
+  highlight: 1
+  
 - title: "Identification of TPBG-Expressing Amacrine Cells in DAT-tdTomato Mouse."
   image: dummy.png
   description: 
