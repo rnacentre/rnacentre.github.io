@@ -60,10 +60,11 @@ GEM
 
 PLATFORMS
   x86_64-darwin-13
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (>= 3.6.3)
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.13
+   2.3.16

@@ -24,6 +24,14 @@
   number_educ: 2
   education1: Master at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
   education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
+  
+- name: Xinyue Chen
+  photo: XinyueChen.jpg
+  info: Research Assistant
+  email: chen_xinyue@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
+  education2: B.S. at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
 
 - name: "This could be you !"
   photo: rock.jpg

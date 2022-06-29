@@ -1,4 +1,4 @@
-I"�Y<h1 id="publications">Publications</h1>
+I"�]<h1 id="publications">Publications</h1>
 
 <p>(^ co-first author, # corresponding author)</p>
 
@@ -12,6 +12,18 @@
 
   <div class="col-sm-6 clearfix">
     <div class="well">
+      <pubtit>Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations.</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/nneuron.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p>Hao, Z.-Z., Wei, J.-R., Xiao, D., Liu, R., Xu, N., Tang, L., Huang, M., Shen, Y., Xing, C., Huang, W., Liu, X., Xiang, M.#, Liu, Y.#, <b>Miao, Z.#</b> &amp; Liu, S.#</p>
+      <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35637371/">Nat. Neurosci. 1–13 (2022).</a></strong></em></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
       <pubtit>High-throughput full-length single-cell RNA-seq automation.</pubtit>
       <p><img src="http://localhost:4000/images/pubpic/scqua_cover.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We describe an automated protocol for full-length single-cell RNA sequencing, including both an in-house automated Smart-seq2 protocol and a commercial kit-based workflow. Besidse, we also provide a single-cell sequencing qaulity assessment program <b><a href="https://github.com/chichaumiau/SCQUA">SCQUA</a></b>.</p>
@@ -21,6 +33,10 @@
       <p> </p>
     </div>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -34,10 +50,6 @@
     </div>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>A test metric for assessing single-cell RNA-seq batch correction.</pubtit>
@@ -49,6 +61,10 @@
       <p> </p>
     </div>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -67,6 +83,9 @@
 <p>   </p>
 
 <h2 id="full-list-of-publications">Full List of publications</h2>
+
+<p><b>Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations.</b> <br />
+  Hao, Z.-Z., Wei, J.-R., Xiao, D., Liu, R., Xu, N., Tang, L., Huang, M., Shen, Y., Xing, C., Huang, W., Liu, X., Xiang, M.#, Liu, Y.#, <b>Miao, Z.#</b> &amp; Liu, S.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/35637371/">Nat. Neurosci. 1–13 (2022).</a></em></p>
 
 <p><b>Identification of TPBG-Expressing Amacrine Cells in DAT-tdTomato Mouse.</b> <br />
   Huang, W., Xu, Q., Liu, F., Su, J., Xiao, D., Tang, L., Hao, Z.-Z., Liu, R., Xiang, K., <b>Bi, Y., Miao, Z.</b>, Liu, X., Liu, Y. &amp; Liu, S.# <br /><em><a href="https://iovs.arvojournals.org/article.aspx?articleid=2778820">Invest. Ophthalmol. Vis. Sci. 63, 13–13 (2022).</a></em></p>
