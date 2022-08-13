@@ -40,6 +40,14 @@
   number_educ: 2
   education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>  
   education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>  
+  
+- name: Liping Yao
+  photo: Liping_Yao.jpg
+  info: Research Assistant
+  email: yao_liping@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "http://www.huhst.edu.cn/"> Hunan University of Humanities, Science and Technology</a>   
+  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University</a>   
 
 - name: "This could be you !"
   photo: rock.jpg
