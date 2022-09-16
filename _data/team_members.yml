@@ -9,21 +9,14 @@
   education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
   education5: Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
 
-- name: Xinyu Guo
-  photo: xinyu.jpeg
-  info: Lab manager
-  email: xxx@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href="https://www.gdufs.edu.cn/">Guangdong University of Foreign Studies</a>
-  education2: B.S. at <a href="https://www.nwsuaf.edu.cn/">Northwest A&F University, China</a> 
 
 - name: Ziliang Huang
   photo: ziliang.jpeg
   info: Research Assistant
-  email: xxx@gzlab.ac.cn
+  email: huang_ziliang@gzlab.ac.cn
   number_educ: 2
   education1: Master at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
-  education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
+  education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a> 
   
 - name: Xinyue Chen
   photo: XinyueChen.jpg
@@ -47,7 +40,15 @@
   email: yao_liping@gzlab.ac.cn
   number_educ: 2
   education1: Master at <a href= "http://www.huhst.edu.cn/"> Hunan University of Humanities, Science and Technology</a>   
-  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University</a>   
+  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University, China</a>   
+
+- name: Jie Tao
+  photo: Jie_Tao.jpg
+  info: Intern
+  email: taojie@mail.ustc.edu.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China</a>   
+  education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University，China</a>   
 
 - name: "This could be you !"
   photo: rock.jpg

@@ -1,1 +1,7 @@
-
+- name: Xinyu Guo
+  photo: xinyu.jpeg
+  info: Lab manager
+  email: xxx@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href="https://www.gdufs.edu.cn/">Guangdong University of Foreign Studies</a>
+  education2: B.S. at <a href="https://www.nwsuaf.edu.cn/">Northwest A&F University, China</a> 
