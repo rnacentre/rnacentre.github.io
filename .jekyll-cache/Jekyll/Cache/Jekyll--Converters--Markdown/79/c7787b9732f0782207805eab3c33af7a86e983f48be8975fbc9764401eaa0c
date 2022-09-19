@@ -1,8 +1,8 @@
-I"e<h1 id="group-members">Group Members</h1>
+I"�<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
 
-<p>Jump to <a href="#staff">staff</a>, <a href="#graduate-students">graduate students</a>, <a href="#administrative-support">administrative support</a>,<a href="#Alumni_members">Alumni_members</a>,<a href="#lab-visitors">lab visitors</a>.</p>
+<p>Jump to <a href="#staff">staff</a>, <a href="#graduate-students">graduate students</a>, <a href="#administrative-support">administrative support</a>,<a href="#Alumni_members">Alumni members</a>,<a href="#lab-visitors">lab visitors</a>.</p>
 
 <h2 id="staff">Staff</h2>
 
@@ -156,10 +156,42 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>This could be you !</h4>
-    <p><i>See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info <!--<br>email: <miao_zhichao@gzlab.ac.cn></i> --></i></p>
+    <p><img src="http://localhost:4000/images/teampic/Ziming_Qin.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Ziming Qin</h4>
+    <p><i>Research Intern <!--<br>email: <zuoyou657@gmail.com></i> --></i></p>
     <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master at <a href=" https://www.tohoku.ac.jp/japanese/"> TOHOKU University &lt;/li&gt;
+  <li> B.S. at <a href="https://www.fafu.edu.cn/"> FuJian Agriculture and Forest University &lt;/li&gt;
+  
+
+  
+
+  
+
+  
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>This could be you !</h4>
+  <i>See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info <!--<br>email: <miao_zhichao@gzlab.ac.cn></i> -->
+  <ul style="overflow: hidden">
 
   
 
@@ -172,20 +204,36 @@
   
 
   </ul>
-  </div>
+&lt;/div&gt;
 
-</div>
 
-<h2 id="graduate-students">Graduate Students</h2>
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+## Graduate Students
+
+
+
+
+
 
 <div class="row">
 
-  <div class="col-sm-6 clearfix">
 
-    <p><img src="http://localhost:4000/images/teampic/fan.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Fan Bu</h4>
-    <p><i>Graduate student <!-- <br>email: <bufan623@mail.ustc.edu.cn></i> --></i></p>
-    <ul style="overflow: hidden">
+<div class="col-sm-6 clearfix">
+
+  <img src="http://localhost:4000/images/teampic/fan.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Fan Bu</h4>
+  <i>Graduate student <!-- <br>email: <bufan623@mail.ustc.edu.cn></i> -->
+  <ul style="overflow: hidden">
 
   
 
@@ -199,14 +247,24 @@
   
 
   </ul>
-  </div>
+&lt;/div&gt;
 
-  <div class="col-sm-6 clearfix">
 
-    <p><img src="http://localhost:4000/images/teampic/yaohuang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Yaohuang Shi</h4>
-    <p><i>Graduate student <!-- <br>email: <shiyh@shanghaitech.edu.cn></i> --></i></p>
-    <ul style="overflow: hidden">
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+
+  <img src="http://localhost:4000/images/teampic/yaohuang.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Yaohuang Shi</h4>
+  <i>Graduate student <!-- <br>email: <shiyh@shanghaitech.edu.cn></i> -->
+  <ul style="overflow: hidden">
 
   
 
@@ -220,9 +278,17 @@
   
 
   </ul>
-  </div>
+&lt;/div&gt;
 
-</div>
+
+
+
+&lt;/div&gt;
+
+
+
+
+
 
 <!--
 #这是注释，主要是表示其他栏目信息
@@ -230,15 +296,21 @@ Administrative Support
 <a href="mailto:xxx@gzlab.ac.cn">Xinyu Guo</a> is helping us (and other groups) with administration.
 -->
 
-<h2 id="alumni_members">Alumni_members</h2>
+## Alumni members
+
+
+
+
+
 
 <div class="row">
 
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/xinyu.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Xinyu Guo</h4>
-    <p><i>Lab manager <!--<br>email: <xxx@gzlab.ac.cn></i> --></i></p>
-    <ul style="overflow: hidden">
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/xinyu.jpeg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Xinyu Guo</h4>
+  <i>Lab manager <!--<br>email: <xxx@gzlab.ac.cn></i> -->
+  <ul style="overflow: hidden">
 
   
 
@@ -254,8 +326,21 @@ Administrative Support
   
 
   </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;/div&gt;
+
+
+
+</i></div></div></i></div></i></div></div></i></div></a></li></a></li></ul>
   </div>
-
 </div>
-
 :ET
