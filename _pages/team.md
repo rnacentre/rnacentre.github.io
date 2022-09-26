@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-Jump to [staff](#staff), [graduate students](#graduate-students), [administrative support](#administrative-support),[Alumni members](#Alumni_members),[lab visitors](#lab-visitors).
+Jump to [staff](#staff), [graduate students](#graduate-students), [administrative support](#administrative-support),[Alumni members](#alumni-members),[lab visitors](#lab-visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -134,7 +134,6 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [administrativ
 Administrative Support
 <a href="mailto:xxx@gzlab.ac.cn">Xinyu Guo</a> is helping us (and other groups) with administration.
 -->
-
 ## Alumni members
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}

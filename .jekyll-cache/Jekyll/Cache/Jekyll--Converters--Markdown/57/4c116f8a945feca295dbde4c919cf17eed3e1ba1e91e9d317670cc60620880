@@ -1,8 +1,8 @@
-I"ˆ<h1 id="group-members">Group Members</h1>
+I"†<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
 
-<p>Jump to <a href="#staff">staff</a>, <a href="#graduate-students">graduate students</a>, <a href="#administrative-support">administrative support</a>,<a href="#Alumni_members">Alumni members</a>,<a href="#lab-visitors">lab visitors</a>.</p>
+<p>Jump to <a href="#staff">staff</a>, <a href="#graduate-students">graduate students</a>, <a href="#administrative-support">administrative support</a>,<a href="#alumni-members">Alumni members</a>,<a href="#lab-visitors">lab visitors</a>.</p>
 
 <h2 id="staff">Staff</h2>
 
@@ -251,13 +251,12 @@
 Administrative Support
 <a href="mailto:xxx@gzlab.ac.cn">Xinyu Guo</a> is helping us (and other groups) with administration.
 -->
-
 <h2 id="alumni-members">Alumni members</h2>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/xinyu.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/alumni/xinyu.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Xinyu Guo</h4>
     <p><i>Lab manager <!--<br>email: <xxx@gzlab.ac.cn></i> --></i></p>
     <ul style="overflow: hidden">
