@@ -35,7 +35,7 @@ If you are interested in joining us, please send us an email along with a brief 
 ### Postdoc
 
 **We offer**
-* Competitive salary, **300K-550K RMB/year**
+* Competitive salary, **350K-550K RMB/year**
 * Research funding **350K RMB/2years**
 * Housing allowance **600K RMB** (if you stay in the lab after 2 years)
 * Accommodation allowance (~36K RMB/year, in addition to salary)
