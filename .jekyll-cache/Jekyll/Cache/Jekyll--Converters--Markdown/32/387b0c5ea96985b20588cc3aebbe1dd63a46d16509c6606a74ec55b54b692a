@@ -1,4 +1,4 @@
-I"�j<h1 id="publications">Publications</h1>
+I"�n<h1 id="publications">Publications</h1>
 
 <p>(^ co-first author, # corresponding author)</p>
 
@@ -12,7 +12,19 @@
 
   <div class="col-sm-6 clearfix">
     <div class="well">
-      <pubtit>Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells</pubtit>
+      <pubtit>Ribocentre: a database of ribozymes.</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/Ribocentre.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p></p>
+      <p>Deng, J., Shi, Y., Peng, X., He, Y., Chen, X., Li, M., Lin, X., Liao, W., Huang, Y., Jiang, T., Lilley, D. M. J., <b>Miao, Z.#</b>, Huang, L.#</p>
+      <p><em><strong><a href="https://doi.org/10.1093/nar/gkac840">Nucleic Acids Res. gkac840 (2022).</a></strong></em></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells.</pubtit>
       <p><img src="http://localhost:4000/images/pubpic/mam_cells.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p></p>
       <p>Huang, W., Xu, Q., Su, J., Tang, L., Hao, Z.-Z., Xu, C., Liu, R., Shen, Y., Sang, X., Xu, N., Tie, X., <b>Miao, Z.^</b>, Liu, X., Xu, Y., Liu, F., Liu, Y., &amp; Liu, S.#</p>
@@ -21,6 +33,10 @@
       <p> </p>
     </div>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -34,10 +50,6 @@
     </div>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations.</pubtit>
@@ -49,6 +61,10 @@
       <p> </p>
     </div>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -62,10 +78,6 @@
     </div>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Putative cell type discovery from single-cell gene expression data.</pubtit>
@@ -78,6 +90,10 @@
     </div>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>A test metric for assessing single-cell RNA-seq batch correction.</pubtit>
@@ -89,10 +105,6 @@
       <p> </p>
     </div>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <div class="well">
@@ -112,10 +124,13 @@
 
 <h2 id="full-list-of-publications">Full List of publications</h2>
 
-<p><b>Single-cell atlas of human liver development reveals pathways directing hepatic cell fates</b> <br />
+<p><b>Ribocentre: a database of ribozymes.</b> <br />
+  Deng, J., Shi, Y., Peng, X., He, Y., Chen, X., Li, M., Lin, X., Liao, W., Huang, Y., Jiang, T., Lilley, D. M. J., <b>Miao, Z.#</b>, Huang, L.# <br /><em><a href="https://doi.org/10.1093/nar/gkac840">Nucleic Acids Res. gkac840 (2022).</a></em></p>
+
+<p><b>Single-cell atlas of human liver development reveals pathways directing hepatic cell fates.</b> <br />
   Wesley, B. T., Ross, A. D. B., Muraro, D., <b>Miao, Z.</b>, Saxton, S., Tomaz, R. A., Morell, C. M., Ridley, K., Zacharis, E. D., Petrus-Reurer, S., Kraiczy, J., Mahbubani, K. T., Brown, S., Garcia-Bernardo, J., Alsinet, C., Gaffney, D., Horsfall, D., Tysoe, O. C., Botting, R. A., Stephenson, E., Popescu, D.-M., MacParland, S., Bader, G., McGilvray, I. D., Ortmann, D., Sampaziotis, F., Saeb-Parsy, K., Haniffa, M., Stevens, K. R., Zilbauer, M., Teichmann, S. A., Vallier, L.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36109670/">Nat Cell Biol. 1476-4679 (2022).</a></em></p>
 
-<p><b>Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells</b> <br />
+<p><b>Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells.</b> <br />
   Huang, W., Xu, Q., Su, J., Tang, L., Hao, Z.-Z., Xu, C., Liu, R., Shen, Y., Sang, X., Xu, N., Tie, X., <b>Miao, Z.^</b>, Liu, X., Xu, Y., Liu, F., Liu, Y., &amp; Liu, S.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36103830/">Cell Rep. 40(11):111322 (2022).</a></em></p>
 
 <p><b>Computational Pipeline for Reference-Free Comparative Analysis of RNA 3D Structures Applied to SARS-CoV-2 UTR Models. International Journal of Molecular Sciences.</b> <br />
@@ -134,7 +149,7 @@
   Moreno, P., Fexova, S., George, N., Manning, J. R., <b>Miao, Z.</b>, Mohammed, S., Muñoz-Pomer, A., Fullgrabe, A., Bi, Y., Bush, N., Iqbal, H., Kumbham, U., Solovyev, A., Zhao, L., Prakash, A., García-Seisdedos, D., Kundu, D. J., Wang, S., Walzer, M., Clarke, L., Osumi-Sutherland, D., Tello-Ruiz, M. K., Kumari, S., Ware, D., Eliasova, J., Arends, M. J., Nawijn, M. C., Meyer, K., Burdett, T., Marioni, J., Teichmann, S., Vizcaíno, J. A., Brazma, A.# &amp; Papatheodorou, I.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/34850121/">Nucleic Acids Res. 50, D129–D140 (2022)</a></em></p>
 
 <p><b>Single-Cell Analysis Reveals the Immune Characteristics of Myeloid Cells and Memory T Cells in Recovered COVID-19 Patients With Different Severities.</b> <br />
-  Li, X.^, <b>Garg, M.^</b>, Jia, T., Liao, Q., Yuan, L., Li, M., Wu, Z., Wu, W., Bi, Y., George, N., Papatheodorou, I., Brazma, A., Luo, H., Fang, S., <b>Miao, Z.#</b> &amp; Shu, Y.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/35046942/">Frontiers in Immunology 12, 1664-3224 (2022).</a></em></p>
+  Li, X.^, <b>Garg, M.^</b>, Jia, T., Liao, Q., Yuan, L., Li, M., Wu, Z., Wu, W., Bi, Y., George, N., Papatheodorou, I., Brazma, A., Luo, H., Fang, S., <b>Miao, Z.#</b> ,Shu, Y.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/35046942/">Frontiers in Immunology 12, 1664-3224 (2022).</a></em></p>
 
 <p><b>Evaluation of the stereochemical quality of predicted RNA 3D models in the RNA-Puzzles submissions.</b> <br />
   Carrascoza, F., Antczak, M., <b>Miao, Z.#</b>, Westhof, E. &amp; Szachniuk, M.# <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/34819324/">RNA (2021). doi:10.1261/rna.078685.121.</a></em></p>

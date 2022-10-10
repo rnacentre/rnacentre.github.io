@@ -1,13 +1,23 @@
-- title: "Single-cell atlas of human liver development reveals pathways directing hepatic cell fates"
+- title: "Ribocentre: a database of ribozymes."
+  image: Ribocentre.jpeg
+  description: 
+  authors: Deng, J., Shi, Y., Peng, X., He, Y., Chen, X., Li, M., Lin, X., Liao, W., Huang, Y., Jiang, T., Lilley, D. M. J., <b>Miao, Z.#</b>, & Huang, L.#
+  link:
+    url: https://doi.org/10.1093/nar/gkac840
+    display: Nucleic Acids Res. gkac840 (2022).
+  highlight: 1
+
+
+- title: "Single-cell atlas of human liver development reveals pathways directing hepatic cell fates."
   image: dummy.png
   description: 
-  authors: Wesley, B. T., Ross, A. D. B., Muraro, D., <b>Miao, Z.</b>, Saxton, S., Tomaz, R. A., Morell, C. M., Ridley, K., Zacharis, E. D., Petrus-Reurer, S., Kraiczy, J., Mahbubani, K. T., Brown, S., Garcia-Bernardo, J., Alsinet, C., Gaffney, D., Horsfall, D., Tysoe, O. C., Botting, R. A., Stephenson, E., Popescu, D.-M., MacParland, S., Bader, G., McGilvray, I. D., Ortmann, D., Sampaziotis, F., Saeb-Parsy, K., Haniffa, M., Stevens, K. R., Zilbauer, M., Teichmann, S. A., Vallier, L.#
+  authors: Wesley, B. T., Ross, A. D. B., Muraro, D., <b>Miao, Z.</b>, Saxton, S., Tomaz, R. A., Morell, C. M., Ridley, K., Zacharis, E. D., Petrus-Reurer, S., Kraiczy, J., Mahbubani, K. T., Brown, S., Garcia-Bernardo, J., Alsinet, C., Gaffney, D., Horsfall, D., Tysoe, O. C., Botting, R. A., Stephenson, E., Popescu, D.-M., MacParland, S., Bader, G., McGilvray, I. D., Ortmann, D., Sampaziotis, F., Saeb-Parsy, K., Haniffa, M., Stevens, K. R., Zilbauer, M., Teichmann, S. A., & Vallier, L.#
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/36109670/
     display: Nat Cell Biol. 1476-4679 (2022).
   highlight: 0
 
-- title: "Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells"
+- title: "Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells."
   image: mam_cells.png
   description: 
   authors: Huang, W., Xu, Q., Su, J., Tang, L., Hao, Z.-Z., Xu, C., Liu, R., Shen, Y., Sang, X., Xu, N., Tie, X., <b>Miao, Z.^</b>, Liu, X., Xu, Y., Liu, F., Liu, Y., & Liu, S.#
@@ -19,7 +29,7 @@
 - title: "Computational Pipeline for Reference-Free Comparative Analysis of RNA 3D Structures Applied to SARS-CoV-2 UTR Models. International Journal of Molecular Sciences."
   image: 5_utr.jpeg
   description: 
-  authors: Gumna J., Antczak M., Adamiak RW., Bujnicki JM., Chen S-J., Ding F., Ghosh P., Li J., Mukherjee S., Nithin C., Pachulska-Wieczorek K., Ponce-Salvatierra A., Popenda M., Sarzynska J., Wirecki T., Zhang D., Zhang S., Zok T., Westhof E.,  <b>Miao Z.#</b>, Szachniuk M., Rybarczyk A.#
+  authors: Gumna J., Antczak M., Adamiak RW., Bujnicki JM., Chen S-J., Ding F., Ghosh P., Li J., Mukherjee S., Nithin C., Pachulska-Wieczorek K., Ponce-Salvatierra A., Popenda M., Sarzynska J., Wirecki T., Zhang D., Zhang S., Zok T., Westhof E.,  <b>Miao Z.#</b>, Szachniuk M., & Rybarczyk A.#
   link:
     url: https://doi.org/10.3390/ijms23179630
     display: Models. Int. J. Mol. Sci.23, 9630 (2022).
@@ -64,7 +74,7 @@
 - title: "Single-Cell Analysis Reveals the Immune Characteristics of Myeloid Cells and Memory T Cells in Recovered COVID-19 Patients With Different Severities."
   image: dummy.png
   description: 
-  authors: Li, X.^, <b>Garg, M.^</b>, Jia, T., Liao, Q., Yuan, L., Li, M., Wu, Z., Wu, W., Bi, Y., George, N., Papatheodorou, I., Brazma, A., Luo, H., Fang, S., <b>Miao, Z.#</b> & Shu, Y.#
+  authors: Li, X.^, <b>Garg, M.^</b>, Jia, T., Liao, Q., Yuan, L., Li, M., Wu, Z., Wu, W., Bi, Y., George, N., Papatheodorou, I., Brazma, A., Luo, H., Fang, S., <b>Miao, Z.#</b> ,Shu, Y.#
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/35046942/
     display: Frontiers in Immunology 12, 1664-3224 (2022).
