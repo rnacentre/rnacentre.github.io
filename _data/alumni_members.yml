@@ -5,3 +5,20 @@
   number_educ: 2
   education1: Master at <a href="https://www.gdufs.edu.cn/">Guangdong University of Foreign Studies</a>
   education2: B.S. at <a href="https://www.nwsuaf.edu.cn/">Northwest A&F University, China</a> 
+
+
+- name: Lirong Yang
+  photo: Lirong_Yang.jpg
+  info: Research Assistant
+  email: yang_lirong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>  
+  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>  
+
+- name: Ziming Qin
+  photo: Ziming_Qin.jpg
+  info: Research Intern
+  email: zuoyou657@gmail.com
+  number_educ: 2
+  education1: Master at <a href =" https://www.tohoku.ac.jp/japanese/"> TOHOKU University</a> 
+  education2: B.S. at <a href ="https://www.fafu.edu.cn/"> FuJian Agriculture and Forest University，China</a> 

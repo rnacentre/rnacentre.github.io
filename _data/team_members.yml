@@ -9,6 +9,13 @@
   education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
   education5: Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
 
+- name: Zhuoran Yang
+  photo : Zhuoran_Yang.jpg
+  info: Lab manager
+  email: YANG_ZHUORAN@gzlab.ac.cn
+  number_educ: 1
+  education1 : B.S. at <a href="http://www.hrbcu.edu.cn/">Harbin University of Commerce,Financial Management-Accounting </a> 
+
 
 - name: Ziliang Huang
   photo: ziliang.jpeg
@@ -26,13 +33,7 @@
   education1: Master at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
   education2: B.S. at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
   
-- name: Lirong Yang
-  photo: Lirong_Yang.jpg
-  info: Research Assistant
-  email: yang_lirong@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>  
-  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>  
+
   
 - name: Liping Yao
   photo: Liping_Yao.jpg
@@ -50,13 +51,6 @@
   education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China</a>   
   education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University，China</a>  
 
-- name: Ziming Qin
-  photo: Ziming_Qin.jpg
-  info: Research Intern
-  email: zuoyou657@gmail.com
-  number_educ: 2
-  education1: Master at <a href =" https://www.tohoku.ac.jp/japanese/"> TOHOKU University</a> 
-  education2: B.S. at <a href ="https://www.fafu.edu.cn/"> FuJian Agriculture and Forest University，China</a> 
 
 
 - name: "This could be you !"
