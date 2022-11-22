@@ -1,3 +1,13 @@
+- title: "Identification of visual cortex cell types and species differences using single-cell RNA sequencing"
+  image: visual_cortex.png
+  description: 
+  authors: Wei, J. R., Hao, Z. Z., Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A.#, <b>Miao, Z.#</b>, & Sheng, L.#
+  link:  
+    url: https://www.nature.com/articles/s41467-022-34590-1
+    display: Nature Communications. 13(1):1-21 (2022). 
+  highlight: 1
+
+
 - title: "Ribocentre: a database of ribozymes."
   image: Ribocentre.jpeg
   description: 
@@ -5,7 +15,7 @@
   link:
     url: https://doi.org/10.1093/nar/gkac840
     display: Nucleic Acids Res. gkac840 (2022).
-  highlight: 1
+  highlight: 0
 
 
 - title: "Single-cell atlas of human liver development reveals pathways directing hepatic cell fates."
@@ -24,7 +34,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/36103830/
     display: Cell Rep. 40(11):111322 (2022).
-  highlight: 1
+  highlight: 0
 
 - title: "Computational Pipeline for Reference-Free Comparative Analysis of RNA 3D Structures Applied to SARS-CoV-2 UTR Models. International Journal of Molecular Sciences."
   image: 5_utr.jpeg
@@ -33,7 +43,7 @@
   link:
     url: https://doi.org/10.3390/ijms23179630
     display: Models. Int. J. Mol. Sci.23, 9630 (2022).
-  highlight: 1
+  highlight: 0
 
 - title: "Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations."
   image: nneuron.jpeg

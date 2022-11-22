@@ -1,4 +1,4 @@
-I"¾n<h1 id="publications">Publications</h1>
+I"j<h1 id="publications">Publications</h1>
 
 <p>(^ co-first author, # corresponding author)</p>
 
@@ -12,39 +12,11 @@
 
   <div class="col-sm-6 clearfix">
     <div class="well">
-      <pubtit>Ribocentre: a database of ribozymes.</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/Ribocentre.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <pubtit>Identification of visual cortex cell types and species differences using single-cell RNA sequencing</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/visual_cortex.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p></p>
-      <p>Deng, J., Shi, Y., Peng, X., He, Y., Chen, X., Li, M., Lin, X., Liao, W., Huang, Y., Jiang, T., Lilley, D. M. J., <b>Miao, Z.#</b>, &amp; Huang, L.#</p>
-      <p><em><strong><a href="https://doi.org/10.1093/nar/gkac840">Nucleic Acids Res. gkac840 (2022).</a></strong></em></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>Linking transcriptomes with morphological and functional phenotypes in mammalian retinal ganglion cells.</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/mam_cells.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p></p>
-      <p>Huang, W., Xu, Q., Su, J., Tang, L., Hao, Z.-Z., Xu, C., Liu, R., Shen, Y., Sang, X., Xu, N., Tie, X., <b>Miao, Z.^</b>, Liu, X., Xu, Y., Liu, F., Liu, Y., &amp; Liu, S.#</p>
-      <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/36103830/">Cell Rep. 40(11):111322 (2022).</a></strong></em></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>Computational Pipeline for Reference-Free Comparative Analysis of RNA 3D Structures Applied to SARS-CoV-2 UTR Models. International Journal of Molecular Sciences.</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/5_utr.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
-      <p></p>
-      <p>Gumna J., Antczak M., Adamiak RW., Bujnicki JM., Chen S-J., Ding F., Ghosh P., Li J., Mukherjee S., Nithin C., Pachulska-Wieczorek K., Ponce-Salvatierra A., Popenda M., Sarzynska J., Wirecki T., Zhang D., Zhang S., Zok T., Westhof E.,  <b>Miao Z.#</b>, Szachniuk M., &amp; Rybarczyk A.#</p>
-      <p><em><strong><a href="https://doi.org/10.3390/ijms23179630">Models. Int. J. Mol. Sci.23, 9630 (2022).</a></strong></em></p>
+      <p>Wei, J. R., Hao, Z. Z., Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A.#, <b>Miao, Z.#</b>, &amp; Sheng, L.#</p>
+      <p><em><strong><a href="https://www.nature.com/articles/s41467-022-34590-1">Nature Communications. 13(1):1-21 (2022).</a></strong></em></p>
       <p class="text-danger"><strong> </strong></p>
       <p> </p>
     </div>
@@ -123,6 +95,9 @@
 <p> Â  </p>
 
 <h2 id="full-list-of-publications">Full List of publications</h2>
+
+<p><b>Identification of visual cortex cell types and species differences using single-cell RNA sequencing</b> <br />
+  Wei, J. R., Hao, Z. Z., Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A.#, <b>Miao, Z.#</b>, &amp; Sheng, L.# <br /><em><a href="https://www.nature.com/articles/s41467-022-34590-1">Nature Communications. 13(1):1-21 (2022).</a></em></p>
 
 <p><b>Ribocentre: a database of ribozymes.</b> <br />
   Deng, J., Shi, Y., Peng, X., He, Y., Chen, X., Li, M., Lin, X., Liao, W., Huang, Y., Jiang, T., Lilley, D. M. J., <b>Miao, Z.#</b>, &amp; Huang, L.# <br /><em><a href="https://doi.org/10.1093/nar/gkac840">Nucleic Acids Res. gkac840 (2022).</a></em></p>
