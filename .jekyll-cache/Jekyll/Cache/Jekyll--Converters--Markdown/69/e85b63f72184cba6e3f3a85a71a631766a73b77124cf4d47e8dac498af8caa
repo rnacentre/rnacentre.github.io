@@ -1,4 +1,4 @@
-I"Ë <h1 id="group-members">Group Members</h1>
+I"”<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
 
@@ -138,7 +138,7 @@
 
   
   <li> Master at <a href="https://www.ustc.edu.cn/"> University of Science and Technology of China</a> </li>
-  <li> B.S. at <a href="https://www.ahmu.edu.cn/"> Anhui Medical Universityï¼ŒChina</a> </li>
+  <li> B.S. at <a href="https://www.ahmu.edu.cn/"> Anhui Medical University,China</a> </li>
   
 
   
@@ -155,13 +155,16 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>This could be you !</h4>
-    <p><i>See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info <!--<br>email: <miao_zhichao@gzlab.ac.cn></i> --></i></p>
+    <p><img src="http://localhost:4000/images/teampic/Yalan.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Yalan Bi</h4>
+    <p><i>Scientific visitor <!--<br>email: <></i> --></i></p>
     <ul style="overflow: hidden">
 
   
 
+  
+  <li> Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a> </li>
+  <li> B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a> </li>
   
 
   
@@ -212,6 +215,28 @@
   
   <li> Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a> </li>
   <li> B.S. at <a href="https://www.htu.edu.cn/mainm.htm">Henan Normal University, China</a> </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>This could be you !</h4>
+    <p><i>See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info <!-- <br>email: <miao_zhichao@gzlab.ac.cn></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
   
 
   
@@ -290,41 +315,11 @@ Administrative Support
 
   
   <li> Master at <a href=" https://www.tohoku.ac.jp/japanese/"> TOHOKU University</a> </li>
-  <li> B.S. at <a href="https://www.fafu.edu.cn/"> FuJian Agriculture and Forest Universityï¼ŒChina</a> </li>
+  <li> B.S. at <a href="https://www.fafu.edu.cn/"> FuJian Agriculture and Forest University,China</a> </li>
   
 
   
 
-  
-
-  
-
-  </ul>
-  </div>
-
-</div>
-
-<h4 id="lab-visitors">lab visitors</h4>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/visitors/Yalan.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Yalan Bi</h4>
-    <p><i>Scientific Curator <!--<br>email: <></i> --></i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-  <li> BSC  <a href="https://en.xmu.edu.cn/">XIAMEN UNIVERSITY,CHINA</a> </li>
-  <li> MSC  <a href="https://www.rug.nl/?lang=en/"> UNIVERSITY OF GRONINGEN (RUG), THE NETHERLANDS</a> </li>
-  <li> Research Intern at <a href="https://www.ebi.ac.uk/">THE EUROPEAN BIOINFORMATICS INSTITUTE (EMBL-EBI), UNITED KINGDOM</a> </li>
-  <li> Scientific Curator at <a href="https://www.ebi.ac.uk/">THE EUROPEAN BIOINFORMATICS INSTITUTE (EMBL-EBI), UNITED KINGDOM</a> </li>
   
 
   

@@ -49,16 +49,15 @@
   email: taojie@mail.ustc.edu.cn
   number_educ: 2
   education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China</a>   
-  education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University，China</a>  
+  education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University,China</a>  
+
+- name: Yalan Bi
+  photo: Yalan.jpeg
+  info: Scientific visitor
+  number_educ: 2
+  education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
+  education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a>
+  
+  
 
 
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info
-  email: miao_zhichao@gzlab.ac.cn
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:

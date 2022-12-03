@@ -13,3 +13,13 @@
   number_educ: 2
   education1: Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
   education2: B.S. at <a href="https://www.htu.edu.cn/mainm.htm">Henan Normal University, China</a>
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info
+  email: miao_zhichao@gzlab.ac.cn
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
