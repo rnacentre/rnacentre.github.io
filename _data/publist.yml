@@ -1,7 +1,16 @@
+- title: "Defects and asymmetries in the visual pathway of non-human primates with natural strabismus and amblyopia"
+  image: Strabismus_amblyopia.png
+  description: 
+  authors: Liu, F., Wang, Z., Huang, W., Xu, Y., Sang, X., Liu, R., Li, Z., Bi, Y., Tang, L., Peng, J., Wei, J., <b>Miao, Z.</b>, Yan, J., & Liu, S.
+  link:    
+    url: https://doi.org/10.24272/j.issn.2095-8137.2022.254  
+    display: Zoological Research. 44(1):153-168 (2023).
+  highlight: 0 
+
 - title: "Identification of visual cortex cell types and species differences using single-cell RNA sequencing"
   image: visual_cortex.png
   description: 
-  authors: Wei, J. R., Hao, Z. Z., Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A.#, <b>Miao, Z.#</b>, & Sheng, L.#
+  authors: Wei, J., Hao, Z., Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A., <b>Miao, Z.#</b>, & Liu, S.
   link:  
     url: https://www.nature.com/articles/s41467-022-34590-1
     display: Nature Communications. 13(1):1-21 (2022). 
