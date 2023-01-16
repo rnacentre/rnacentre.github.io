@@ -9,6 +9,17 @@
   education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
   education5: Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
 
+- name: Yin Huang
+  info: Postdoc
+  photo: yin_huang.jpeg
+  email: huang_yin@gzlab.ac.cn
+  number_educ: 3 
+  education1: PhD at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
+  education2: Master at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
+  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a> 
+
+  
+
 - name: Zhuoran Yang
   photo : Zhuoran_Yang.jpg
   info: Lab manager

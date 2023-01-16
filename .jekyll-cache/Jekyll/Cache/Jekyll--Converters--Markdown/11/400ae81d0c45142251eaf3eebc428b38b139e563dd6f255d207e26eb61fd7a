@@ -1,4 +1,4 @@
-I"”<h1 id="group-members">Group Members</h1>
+I"¯#<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for passionate Associate Investigators, Postdocs, Assistant Investigators and Research Assistants to join the team</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
 
@@ -34,6 +34,75 @@
   </div>
 
   <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/yin_huang.jepg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Yin Huang</h4>
+    <p><i> <!--<br>email: <></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4></h4>
+    <p><i>Postdoc <!--<br>email: <></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4></h4>
+    <p><i> <!--<br>email: <huang_yin@gzlab.ac.cn></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Jiangxi Normal University </li>
+  <li> CAS-MPG Partner Institute for Computational Biology </li>
+  <li>  </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Zhuoran_Yang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Zhuoran Yang</h4>
     <p><i>Lab manager <!--<br>email: <YANG_ZHUORAN@gzlab.ac.cn></i> --></i></p>
@@ -53,10 +122,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/ziliang.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -80,6 +145,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/XinyueChen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Xinyue Chen</h4>
@@ -101,10 +170,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Liping_Yao.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -128,6 +193,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Jie_Tao.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jie Tao</h4>
@@ -149,10 +218,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Yalan.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
