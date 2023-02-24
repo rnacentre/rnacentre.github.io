@@ -22,7 +22,7 @@
 
 - name: Zhuoran Yang
   photo : Zhuoran_Yang.jpg
-  info: Lab manager
+  info: Lab Manager
   email: YANG_ZHUORAN@gzlab.ac.cn
   number_educ: 1
   education1 : B.S. at <a href="http://www.hrbcu.edu.cn/">Harbin University of Commerce,Financial Management-Accounting </a> 
@@ -44,7 +44,6 @@
   education1: Master at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
   education2: B.S. at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
   
-
   
 - name: Liping Yao
   photo: Liping_Yao.jpg
@@ -52,15 +51,48 @@
   email: yao_liping@gzlab.ac.cn
   number_educ: 2
   education1: Master at <a href= "http://www.huhst.edu.cn/"> Hunan University of Humanities, Science and Technology</a>   
-  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University, China</a>   
+  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University, China</a> 
+
+- name: Bowen Xiao
+  photo: xiaobowen.jpeg
+  info: Research Assistant
+  email: xiao_bowen@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.ku.dk"> University of Copenhagen, Denmark </a>
+  education2: B.S. at <a href= "https://www.hzau.edu.cn" >Huazhong Agricultural University, China  </a>
+
+- name: Jiuhong Jiang
+  photo: jiangjiuhong.png
+  info: Research Assistant
+  email: jiang_jiuhong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.nsu.edu.cn/"> Chengdu Neusoft University, China  </a>
+  education2: B.S. at <a href= "https://www.nenu.edu.cn/" >Northeast Normal University, China  </a>
+
+- name: Ke Fang
+  photo: fangke.jpeg
+  info: Research Assistant
+  email: fang_ke@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
+  education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
+
 
 - name: Jie Tao
   photo: Jie_Tao.jpg
   info: Intern
   email: taojie@mail.ustc.edu.cn
   number_educ: 2
-  education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China</a>   
+  education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China </a>   
   education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University,China</a>  
+
+- name: Shuo Feng
+  photo: fengshuo.jpg
+  info: Intern
+  email: fengshuo@mail.ustc.edu.cn
+  number_educ: 2
+  education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
+  education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
 
 - name: Yalan Bi
   photo: Yalan.jpeg
