@@ -1,3 +1,21 @@
+- title: "Structural basis of sRNA RsmZ regulation of Pseudomonas aeruginosa virulence."
+  image: 
+  description: 
+  authors: Jia, X., Pan, Z., Yuan, Y., Luo, B., Luo, Y., Mukherjee, S., Jia, G., Liu, L., Ling, X., Yang, X., <b>Miao, Z.</b>, Wei, X., Bujnicki, J.M., Zhao, K., Su, Z. 
+  link:    
+    url: https://pubmed.ncbi.nlm.nih.gov/36828938/
+    display: Cell Res. 10.1038/s41422-023-00786–3 (2023).
+  highlight: 0
+
+- title: "Sterile 20-like kinase 3 promotes tick-borne encephalitis virus assembly by interacting with NS2A and prM and enhancing the NS2A-NS4A association."
+  image: 
+  description: 
+  authors: Tang, J., Xu, C., Fu, M., Liu, C., Zhang, X., Zhang, W., Pei, R., Wang, Y., Zhou, Y., Chen, J., <b>Miao, Z.</b>, Pan, G., Yang, Q., Chen, X. 
+  link:    
+    url: https://pubmed.ncbi.nlm.nih.gov/36840407/
+    display: J Med Virol. 10.1002/jmv.28610 (2023).
+  highlight: 0
+
 - title: "RNA 3D Structure Comparison Using RNA-Puzzles Toolkit"
   image: book_for_rnatoolkits.png
   description: 
