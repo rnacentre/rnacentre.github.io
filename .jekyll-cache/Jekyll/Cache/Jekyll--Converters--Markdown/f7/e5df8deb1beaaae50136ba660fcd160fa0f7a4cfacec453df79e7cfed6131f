@@ -1,4 +1,4 @@
-I""r<h1 id="publications">Publications</h1>
+I"}s<h1 id="publications">Publications</h1>
 
 <p>(^ co-first author, # corresponding author)</p>
 
@@ -13,7 +13,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>RNA 3D Structure Comparison Using RNA-Puzzles Toolkit</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/book_for_rnatoolkits.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/book_for_rnatoolkits.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p></p>
       <p>Magnus, M., &amp; <b>Miao, Z.#</b></p>
       <p><em><strong><a href="https://link.springer.com/protocol/10.1007/978-1-0716-2768-6_16#citeas">RNA Structure Prediction. Springer US, 263-285 (2023).</a></strong></em></p>
@@ -25,7 +25,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Identification of visual cortex cell types and species differences using single-cell RNA sequencing</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/visual_cortex.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/visual_cortex.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p></p>
       <p>Wei, J., Hao, Z., Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A., <b>Miao, Z.#</b>, &amp; Liu, S.</p>
       <p><em><strong><a href="https://www.nature.com/articles/s41467-022-34590-1">Nature Communications. 13(1):1-21 (2022).</a></strong></em></p>
@@ -41,7 +41,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations.</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/nneuron.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/nneuron.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
       <p></p>
       <p>Hao, Z.-Z., Wei, J.-R., Xiao, D., Liu, R., Xu, N., Tang, L., Huang, M., Shen, Y., Xing, C., Huang, W., Liu, X., Xiang, M.#, Liu, Y.#, <b>Miao, Z.#</b> &amp; Liu, S.#</p>
       <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/35637371/">Nat. Neurosci. 1–13 (2022).</a></strong></em></p>
@@ -53,7 +53,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>High-throughput full-length single-cell RNA-seq automation.</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/scqua_cover.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/scqua_cover.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We describe an automated protocol for full-length single-cell RNA sequencing, including both an in-house automated Smart-seq2 protocol and a commercial kit-based workflow. Besidse, we also provide a single-cell sequencing qaulity assessment program <b><a href="https://github.com/chichaumiau/SCQUA">SCQUA</a></b>.</p>
       <p>Mamanova, L.#^, <b>Miao, Z.^</b>, Jinat, A., Ellis, P., Shirley, L. &amp; Teichmann, S. A.#</p>
       <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/33990801/">Nat. Protoc. 16, 2886–2915 (2021).</a></strong></em></p>
@@ -69,7 +69,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>Putative cell type discovery from single-cell gene expression data.</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/sccaf_cover.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/sccaf_cover.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>We present the Single-Cell Clustering Assessment Framework (<b><a href="https://github.com/SCCAF/sccaf">SCCAF</a></b>), a method for the automated identification of putative cell types from single-cell RNA sequencing (scRNA-seq) data.</p>
       <p><b>Miao, Z.</b>, Moreno, P., Huang, N., Papatheodorou, I., Brazma, A.# &amp; Teichmann, S. A.#</p>
       <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/32424270/">Nat. Methods 17, 621–628 (2020).</a></strong></em></p>
@@ -81,7 +81,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>A test metric for assessing single-cell RNA-seq batch correction.</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/kbet_cover.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/kbet_cover.jpg" class="img-responsive" width="33%" style="float: left" /></p>
       <p>we present a user-friendly, robust and sensitive k-nearest-neighbor batch-effect test (<b><a href="https://github.com/theislab/kBET">kBET</a></b>) for quantification of batch effects. We used kBET to assess commonly used batch-regression and normalization approaches, and to quantify the extent to which they remove batch effects while preserving biological variability.</p>
       <p>Büttner, M.^, <b>Miao, Z.^</b>, Wolf, F. A., Teichmann, S. A.# &amp; Theis, F. J.#</p>
       <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/30573817/">Nat. Methods 16, 43–49 (2019).</a></strong></em></p>
@@ -97,7 +97,7 @@
   <div class="col-sm-6 clearfix">
     <div class="well">
       <pubtit>RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme.</pubtit>
-      <p><img src="http://localhost:4005/images/pubpic/RNAIII_cover.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p><img src="http://localhost:4001/images/pubpic/RNAIII_cover.png" class="img-responsive" width="33%" style="float: left" /></p>
       <p></p>
       <p><b>Miao, Z.</b>, Adamiak, R. W., Antczak, M., Batey, R. T., Becka, A. J., Biesiada, M., Boniecki, M. J., Bujnicki, J. M., Chen, S.-J., Cheng, C. Y., Chou, F.-C., Ferré-D’Amaré, A. R., Das, R., Dawson, W. K., Ding, F., Dokholyan, N. V., Dunin-Horkawicz, S., Geniesse, C., Kappel, K., Kladwang, W., Krokhotin, A., Łach, G. E., Major, F., Mann, T. H., Magnus, M., Pachulska-Wieczorek, K., Patel, D. J., Piccirilli, J. A., Popenda, M., Purzycka, K. J., Ren, A., Rice, G. M., Santalucia, J., Jr, Sarzynska, J., Szachniuk, M., Tandon, A., Trausch, J. J., Tian, S., Wang, J., Weeks, K. M., Williams, B., 2nd, Xiao, Y., Xu, X., Zhang, D., Zok, T. &amp; Westhof, E.#</p>
       <p><em><strong><a href="https://pubmed.ncbi.nlm.nih.gov/28138060/">RNA 23, 655–672 (2017).</a></strong></em></p>
@@ -112,11 +112,14 @@
 
 <h2 id="full-list-of-publications">Full List of publications</h2>
 
+<p><b>Single Cell Analysis of the Fate of Injected Oncogenic RasV12 Cells in Adult Wild Type Drosophila.</b> <br />
+  Chen, D., Lan, X., Huang, X., Huang, J., Zhou, X., <b>Miao, Z.</b>, Ma, Y., Goto, A., Ji, S., &amp; Hoffmann, J. A. <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36996781/">J Innate Immun, 15(1), 442–467(2023).</a></em></p>
+
 <p><b>Structural basis of sRNA RsmZ regulation of Pseudomonas aeruginosa virulence.</b> <br />
-  Jia, X., Pan, Z., Yuan, Y., Luo, B., Luo, Y., Mukherjee, S., Jia, G., Liu, L., Ling, X., Yang, X., <b>Miao, Z.^</b>, Wei, X., Bujnicki, J.M., Zhao, K., Su, Z. <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36828938/">RCell Res. 10.1038/s41422-023-00786–3 (2023).</a></em></p>
+  Jia, X., Pan, Z., Yuan, Y., Luo, B., Luo, Y., Mukherjee, S., Jia, G., Liu, L., Ling, X., Yang, X., <b>Miao, Z.</b>, Wei, X., Bujnicki, J.M., Zhao, K., Su, Z. <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36828938/">Cell Res. 10.1038/s41422-023-00786–3 (2023).</a></em></p>
 
 <p><b>Sterile 20-like kinase 3 promotes tick-borne encephalitis virus assembly by interacting with NS2A and prM and enhancing the NS2A-NS4A association.</b> <br />
-  Tang, J., Xu, C., Fu, M., Liu, C., Zhang, X., Zhang, W., Pei, R., Wang, Y., Zhou, Y., Chen, J., <b>Miao, Z.^</b>, Pan, G., Yang, Q., Chen, X. <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36840407/">J Med Virol. 10.1002/jmv.28610 (2023).</a></em></p>
+  Tang, J., Xu, C., Fu, M., Liu, C., Zhang, X., Zhang, W., Pei, R., Wang, Y., Zhou, Y., Chen, J., <b>Miao, Z.</b>, Pan, G., Yang, Q., Chen, X. <br /><em><a href="https://pubmed.ncbi.nlm.nih.gov/36840407/">J Med Virol. 10.1002/jmv.28610 (2023).</a></em></p>
 
 <p><b>RNA 3D Structure Comparison Using RNA-Puzzles Toolkit</b> <br />
   Magnus, M., &amp; <b>Miao, Z.#</b> <br /><em><a href="https://link.springer.com/protocol/10.1007/978-1-0716-2768-6_16#citeas">RNA Structure Prediction. Springer US, 263-285 (2023).</a></em></p>
