@@ -95,6 +95,14 @@
   education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
   education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
 
+- name: Lirong Yang
+  photo: Lirong_Yang.jpg
+  info: Research Assistant
+  email: yang_lirong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
+  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>
+
 - name: Yalan Bi
   photo: Yalan.jpeg
   info: Scientific visitor
@@ -102,13 +110,8 @@
   education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
   education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a>
   
-- name: Lirong Yang
-  photo: Lirong_Yang.jpg
-  info: Research Assistant
-  email: yang_lirong@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
-  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>  
+
   
+
 
 
