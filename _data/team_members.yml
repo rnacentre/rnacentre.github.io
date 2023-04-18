@@ -16,8 +16,16 @@
   number_educ: 3 
   education1: PhD at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
   education2: Master at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
-  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a> 
-
+  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a>
+  
+  - name: Lahong Xu
+  info: Postdoc
+  photo: Lahong_Xu.jpeg
+  email: xu_lahong@gzlab.ac.cn
+  number_educ: 3
+  education1: PhD at <a href="https://www.tamu.edu">Texas A&M University, USA</a>
+  education2: Master at <a href="https://www.sysu.edu.cn">Sun Yat-Sen University, China</a>
+  education3: B.S. at <a href="https://www.hainmc.edu.cn">Hainan Medical University, China</a>
   
 
 - name: Zhuoran Yang
