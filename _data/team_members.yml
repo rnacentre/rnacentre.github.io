@@ -16,16 +16,8 @@
   number_educ: 3 
   education1: PhD at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
   education2: Master at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
-  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a>
-  
-  - name: Lahong Xu
-  info: Postdoc
-  photo: Lahong_Xu.jpeg
-  email: xu_lahong@gzlab.ac.cn
-  number_educ: 3
-  education1: PhD at <a href="https://www.tamu.edu">Texas A&M University, USA</a>
-  education2: Master at <a href="https://www.sysu.edu.cn">Sun Yat-Sen University, China</a>
-  education3: B.S. at <a href="https://www.hainmc.edu.cn">Hainan Medical University, China</a>
+  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a> 
+
   
 
 - name: Zhuoran Yang
@@ -111,14 +103,6 @@
   education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
   education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
 
-- name: Lirong Yang
-  photo: Lirong_Yang.jpg
-  info: Research Assistant
-  email: yang_lirong@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
-  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>
-
 - name: Yalan Bi
   photo: Yalan.jpeg
   info: Scientific visitor
@@ -126,11 +110,6 @@
   education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
   education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a>
   
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of cd43e13 (add_for infor for news&tems)
   
-
 
 
