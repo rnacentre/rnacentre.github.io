@@ -95,6 +95,14 @@
   education2: B.S. at <a href="https://www.whu.edu.cn/" > WuHan University </a> 
   
 
+- name: Jie Tao
+  photo: Jie_Tao.jpg
+  info: Intern
+  email: taojie@mail.ustc.edu.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China </a>   
+  education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University,China</a>  
+
 - name: Shuo Feng
   photo: fengshuo.jpg
   info: Intern
@@ -118,7 +126,10 @@
   education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
   education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a>
   
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of cd43e13 (add_for infor for news&tems)
   
 
 
