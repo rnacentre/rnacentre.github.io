@@ -18,7 +18,14 @@
   education2: Master at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
   education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a> 
 
-  
+ - name: Lahong Xu
+  info: Postdoc
+  photo: Lahong_Xu.jpg
+  email: xu_lahong@gzlab.ac.cn
+  number_educ: 3
+  education1: PhD at <a href="https://www.tamu.edu">Texas A&M University, USA</a>
+  education2: Master at <a href="https://www.sysu.edu.cn">Sun Yat-Sen University, China</a>
+  education3: B.S. at <a href="https://www.hainmc.edu.cn">Hainan Medical University, China</a>
 
 - name: Zhuoran Yang
   photo : Zhuoran_Yang.jpg
@@ -85,15 +92,15 @@
   number_educ: 2
   education1: Master at <a href="https://www.sitp.ac.cn/">Shanghai Institute of Technical Physics, Chinese Academy of Sciences </a>
   education2: B.S. at <a href="https://www.whu.edu.cn/" > WuHan University </a> 
-  
 
-- name: Jie Tao
-  photo: Jie_Tao.jpg
-  info: Intern
-  email: taojie@mail.ustc.edu.cn
+- name: Lirong Yang
+  photo: Lirong_Yang.jpg
+  info: Research Assistant
+  email: yang_lirong@gzlab.ac.cn
   number_educ: 2
-  education1: Master at <a href= "https://www.ustc.edu.cn/"> University of Science and Technology of China </a>   
-  education2: B.S. at <a href= "https://www.ahmu.edu.cn/"> Anhui Medical University,China</a>  
+  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
+  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>
+
 
 - name: Shuo Feng
   photo: fengshuo.jpg
