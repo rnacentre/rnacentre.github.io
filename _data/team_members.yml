@@ -9,6 +9,37 @@
   education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
   education5: Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
 
+- name: Zhuoran Yang
+  photo : Zhuoran_Yang.jpg
+  info: Lab Manager
+  email: YANG_ZHUORAN@gzlab.ac.cn
+  number_educ: 1
+  education1 : B.S. at <a href="http://www.hrbcu.edu.cn/">Harbin University of Commerce,Financial Management-Accounting </a> 
+
+- name: Fan Bu
+  photo: fan.jpg
+  info: Graduate student
+  email: bufan623@mail.ustc.edu.cn
+  number_educ: 2
+  education1: Master at <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a>
+  education2: B.S. at <a href="http://www.henau.edu.cn/">Henan Agricultural University, China</a>
+
+- name: Yaohuang Shi
+  photo: yaohuang.jpg
+  info: Graduate student
+  email: shiyh@shanghaitech.edu.cn
+  number_educ: 2
+  education1: Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
+  education2: B.S. at <a href="https://www.htu.edu.cn/mainm.htm">Henan Normal University, China</a>
+
+- name: Ying Ao
+  photo: aoying.jpeg
+  info: Graduate student
+  email: 1475925311@qq.com
+  number_educ: 1
+  education1: Master at <a href="http://www.zzu.edu.cn/">Zhengzhou University, China </a>
+
+
 - name: Yin Huang
   info: Postdoc
   photo: yin_huang.jpeg
@@ -35,13 +66,6 @@
   education1: PhD at <a href="https://fhs.um.edu.mo/zh-hant/#/">University of Macau, China</a>
   education2: Master at <a href="https://www.kmust.edu.cn/">Kunming University of Science and Technology, China</a>
   education3: B.S. at <a href="https://www.uoh.edu.cn/">Honghe University, China</a>
-
-- name: Zhuoran Yang
-  photo : Zhuoran_Yang.jpg
-  info: Lab Manager
-  email: YANG_ZHUORAN@gzlab.ac.cn
-  number_educ: 1
-  education1 : B.S. at <a href="http://www.hrbcu.edu.cn/">Harbin University of Commerce,Financial Management-Accounting </a> 
 
 
 - name: Ziliang Huang
@@ -93,14 +117,6 @@
   education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
   education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
 
-
-- name: Yan Liu
-  photo: liuyan.jpg
-  info: Research Assistant 
-  email: liu_yan@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href="https://www.sitp.ac.cn/">Shanghai Institute of Technical Physics, Chinese Academy of Sciences </a>
-  education2: B.S. at <a href="https://www.whu.edu.cn/" > WuHan University </a> 
 
 - name: Lirong Yang
   photo: Lirong_Yang.jpg
