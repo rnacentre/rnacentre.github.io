@@ -117,7 +117,6 @@
   education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
   education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
 
-
 - name: Lirong Yang
   photo: Lirong_Yang.jpg
   info: Research Assistant
@@ -126,6 +125,13 @@
   education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
   education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>
 
+- name: Jiajun Lin
+  photo: Jiajun_Lin.jpeg
+  info: Research Assistant
+  email: 964859766@qq.com
+  number_educ: 2
+  education1: Master at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
+  education2: B.S. at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
 
 - name: Shuo Feng
   photo: fengshuo.jpg
