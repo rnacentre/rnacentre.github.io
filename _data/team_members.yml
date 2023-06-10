@@ -18,7 +18,7 @@
 
 - name: Fan Bu
   photo: fan.jpg
-  info: Graduate student
+  info: Graduate student 2022
   email: bufan623@mail.ustc.edu.cn
   number_educ: 2
   education1: Master at <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a>
@@ -26,19 +26,34 @@
 
 - name: Yaohuang Shi
   photo: yaohuang.jpg
-  info: Graduate student
+  info: Graduate student 2022
   email: shiyh@shanghaitech.edu.cn
   number_educ: 2
   education1: Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
   education2: B.S. at <a href="https://www.htu.edu.cn/mainm.htm">Henan Normal University, China</a>
+  
+- name: Jiuhong Jiang
+  photo: jiangjiuhong.png
+  info: Graduate student 2023
+  email: jiang_jiuhong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.nsu.edu.cn/"> Chengdu Neusoft University, China  </a>
+  education2: B.S. at <a href= "https://www.nenu.edu.cn/" >Northeast Normal University, China  </a>
+  
+- name: Shuo Feng
+  photo: fengshuo.jpg
+  info: Graduate student 2023
+  email: fengshuo@mail.ustc.edu.cn
+  number_educ: 2
+  education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
+  education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
 
 - name: Ying Ao
   photo: aoying.jpeg
-  info: Graduate student
+  info: Master student 2023
   email: 1475925311@qq.com
   number_educ: 1
   education1: B.S. at <a href="http://www.zzu.edu.cn/">Zhengzhou University, China </a>
-
 
 - name: Yin Huang
   info: Postdoc
@@ -57,16 +72,6 @@
   education1: PhD at <a href="https://www.tamu.edu">Texas A&M University, USA</a>
   education2: Master at <a href="https://www.sysu.edu.cn">Sun Yat-Sen University, China</a>
   education3: B.S. at <a href="https://www.hainmc.edu.cn">Hainan Medical University, China</a>
-
-- name: Wenshu Zhou
-  info: Postdoc
-  photo: Wenshu_Zhou.jpg
-  email: wenshuz@126.com
-  number_educ: 3
-  education1: PhD at <a href="https://fhs.um.edu.mo/zh-hant/#/">University of Macau, China</a>
-  education2: Master at <a href="https://www.kmust.edu.cn/">Kunming University of Science and Technology, China</a>
-  education3: B.S. at <a href="https://www.uoh.edu.cn/">Honghe University, China</a>
-
 
 - name: Ziliang Huang
   photo: ziliang.jpeg
@@ -101,14 +106,6 @@
   education1: Master at <a href= "https://www.ku.dk"> University of Copenhagen, Denmark </a>
   education2: B.S. at <a href= "https://www.hzau.edu.cn" >Huazhong Agricultural University, China  </a>
 
-- name: Jiuhong Jiang
-  photo: jiangjiuhong.png
-  info: Research Assistant
-  email: jiang_jiuhong@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://www.nsu.edu.cn/"> Chengdu Neusoft University, China  </a>
-  education2: B.S. at <a href= "https://www.nenu.edu.cn/" >Northeast Normal University, China  </a>
-
 - name: Ke Fang
   photo: fangke.jpeg
   info: Research Assistant
@@ -116,14 +113,6 @@
   number_educ: 2
   education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
   education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
-
-- name: Lirong Yang
-  photo: Lirong_Yang.jpg
-  info: Research Assistant
-  email: yang_lirong@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
-  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>
 
 - name: Jiajun Lin
   photo: Jiajun_Lin.jpeg
@@ -133,17 +122,18 @@
   education1: Master at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
   education2: B.S. at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
 
-- name: Shuo Feng
-  photo: fengshuo.jpg
-  info: Intern
-  email: fengshuo@mail.ustc.edu.cn
-  number_educ: 2
-  education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
-  education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
-
 - name: Yalan Bi
   photo: Yalan.jpeg
   info: Scientific visitor
   number_educ: 2
   education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
   education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a>
+
+- name: Wenshu Zhou
+  info: Postdoc
+  photo: Wenshu_Zhou.jpg
+  email: wenshuz@126.com
+  number_educ: 3
+  education1: PhD at <a href="https://fhs.um.edu.mo/zh-hant/#/">University of Macau, China</a>
+  education2: Master at <a href="https://www.kmust.edu.cn/">Kunming University of Science and Technology, China</a>
+  education3: B.S. at <a href="https://www.uoh.edu.cn/">Honghe University, China</a>
