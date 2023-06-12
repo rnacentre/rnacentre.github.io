@@ -9,7 +9,7 @@ permalink: /resources/
 [SCCAF](https://github.com/SCCAF/sccaf): Single Cell Clustering Assessment Framework     
 [SCQUA](https://github.com/chichaumiau/SCQUA): Single Cell QUality Assessment    
 [kBET](https://github.com/theislab/kBET): k-nearest neighbour Batch Effect Test    
-[Brain Cell Atlas](http://www.braincellatlas.org): An Atlas of the Monkey Brain    
+[Brain Cell Atlas](http://www.braincellatlas.org): An Atlas of the Human Brain    
 
 ## Computational Structural biology tools:
 [RNA-Puzzles](www.rnapuzzles.org): A collective experiment for blind RNA structure prediction    

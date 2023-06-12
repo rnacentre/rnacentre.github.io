@@ -30,4 +30,19 @@
   education1: Master at <a href =" https://www.tohoku.ac.jp/japanese/"> TOHOKU University</a> 
   education2: B.S. at <a href ="https://www.fafu.edu.cn/"> FuJian Agriculture and Forest University,China</a> 
 
+- name: Lirong Yang
+  photo: Lirong_Yang.jpg
+  info: Research Assistant
+  email: yang_lirong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>
+  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>
 
+- name: Wenshu Zhou
+  info: Postdoc
+  photo: Wenshu_Zhou.jpg
+  email: wenshuz@126.com
+  number_educ: 3
+  education1: PhD at <a href="https://fhs.um.edu.mo/zh-hant/#/">University of Macau, China</a>
+  education2: Master at <a href="https://www.kmust.edu.cn/">Kunming University of Science and Technology, China</a>
+  education3: B.S. at <a href="https://www.uoh.edu.cn/">Honghe University, China</a>
