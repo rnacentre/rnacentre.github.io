@@ -3,7 +3,7 @@
   info: Principal Investigator
   email: miao_zhichao@gzlab.ac.cn
   number_educ: 5
-  education1: PhD  <a href="http://english.ibp.cas.cn/">Institute of Biophysics, CAS</a>
+  education1: PhD <a href="http://english.ibp.cas.cn/">Institute of Biophysics, CAS</a>
   education2: Chercheur at <a href="https://ibmc.cnrs.fr/en/">IBMC, CNRS</a>
   education3: PostDoc at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
   education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
@@ -18,7 +18,7 @@
 
 - name: Fan Bu
   photo: fan.jpg
-  info: Graduate student
+  info: Graduate student 2022
   email: bufan623@mail.ustc.edu.cn
   number_educ: 2
   education1: Master at <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a>
@@ -26,19 +26,34 @@
 
 - name: Yaohuang Shi
   photo: yaohuang.jpg
-  info: Graduate student
+  info: Graduate student 2022
   email: shiyh@shanghaitech.edu.cn
   number_educ: 2
   education1: Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>
   education2: B.S. at <a href="https://www.htu.edu.cn/mainm.htm">Henan Normal University, China</a>
+  
+- name: Jiuhong Jiang
+  photo: jiangjiuhong.png
+  info: Graduate student 2023
+  email: jiang_jiuhong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.nsu.edu.cn/"> Chengdu Neusoft University, China  </a>
+  education2: B.S. at <a href= "https://www.nenu.edu.cn/" >Northeast Normal University, China  </a>
+  
+- name: Shuo Feng
+  photo: fengshuo.jpg
+  info: Graduate student 2023
+  email: fengshuo@mail.ustc.edu.cn
+  number_educ: 2
+  education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
+  education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
 
 - name: Ying Ao
   photo: aoying.jpeg
-  info: Graduate student
+  info: Master student 2023
   email: 1475925311@qq.com
   number_educ: 1
   education1: B.S. at <a href="http://www.zzu.edu.cn/">Zhengzhou University, China </a>
-
 
 - name: Yin Huang
   info: Postdoc
@@ -91,14 +106,6 @@
   education1: Master at <a href= "https://www.ku.dk"> University of Copenhagen, Denmark </a>
   education2: B.S. at <a href= "https://www.hzau.edu.cn" >Huazhong Agricultural University, China  </a>
 
-- name: Jiuhong Jiang
-  photo: jiangjiuhong.png
-  info: Research Assistant
-  email: jiang_jiuhong@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://www.nsu.edu.cn/"> Chengdu Neusoft University, China  </a>
-  education2: B.S. at <a href= "https://www.nenu.edu.cn/" >Northeast Normal University, China  </a>
-
 - name: Ke Fang
   photo: fangke.jpeg
   info: Research Assistant
@@ -106,7 +113,6 @@
   number_educ: 2
   education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
   education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
-
 
 - name: Jiajun Lin
   photo: Jiajun_Lin.jpeg
@@ -116,17 +122,9 @@
   education1: Master at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
   education2: B.S. at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
 
-- name: Shuo Feng
-  photo: fengshuo.jpg
-  info: Intern
-  email: fengshuo@mail.ustc.edu.cn
-  number_educ: 2
-  education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
-  education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
-
 - name: Yalan Bi
   photo: Yalan.jpeg
-  info: Scientific visitor
+  info: Visiting scientist
   number_educ: 2
   education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
-  education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University,China</a>
+  education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University, China</a>
