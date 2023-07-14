@@ -73,6 +73,24 @@
   education2: Master at <a href="https://www.sysu.edu.cn">Sun Yat-Sen University, China</a>
   education3: B.S. at <a href="https://www.hainmc.edu.cn">Hainan Medical University, China</a>
 
+- name: Baowei Huang
+  info: Postdoc
+  photo: Baowei_Huang.jpeg
+  email: huang_baowei@gzlab.ac.cn
+  number_educ: 3
+  education1: PhD at <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences, China</a>
+  education2: Master at <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences, China</a>
+  education3: B.S. at <a href="https://www.gdut.edu.cn/">Guangdong University of Technology, China</a>
+
+- name: Liangfeng Huang
+  info: Postdoc
+  photo: Liangfeng_Huang.jpeg
+  email: 18778171072@163.com
+  number_educ: 3
+  education1: PhD at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
+  education2: Master at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
+  education3: B.S. at <a href="https://www.gxnu.edu.cn/">Guangxi Normal University, China</a>
+
 - name: Ziliang Huang
   photo: ziliang.jpeg
   info: Research Assistant
