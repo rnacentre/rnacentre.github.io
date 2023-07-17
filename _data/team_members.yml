@@ -85,7 +85,7 @@
 - name: Liangfeng Huang
   info: Postdoc
   photo: Liangfeng_Huang.jpeg
-  email: 18778171072@163.com
+  email: huang_liangfeng@gzlab.ac.cn
   number_educ: 3
   education1: PhD at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
   education2: Master at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
@@ -139,6 +139,14 @@
   number_educ: 2
   education1: Master at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
   education2: B.S. at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
+
+- name: Yangyi Ren
+  photo: Yangyi_Ren.jpeg
+  info: Research Assistant
+  email: 695936851@qq.com
+  number_educ: 2
+  education1: Master at <a href= "https://www.henu.edu.cn/"> Henan University, China</a>
+  education2: B.S. at <a href= "https://www.henu.edu.cn/"> Henan University, China</a>
 
 - name: Yalan Bi
   photo: Yalan.jpeg
