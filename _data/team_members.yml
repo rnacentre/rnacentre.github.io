@@ -48,6 +48,14 @@
   education1: Master at <a href= "https://en.ustc.edu.cn/"> University of Science and Technology of China </a>
   education2: B.S. at <a href= "https://www.sdfmu.edu.cn"> Shandong First Medical University </a>
 
+- name: Xinyue Chen
+  photo: XinyueChen.jpg
+  info: Graduate student 2023
+  email: chen_xinyue@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
+  education2: B.S. at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
+
 - name: Ying Ao
   photo: aoying.jpeg
   info: Master student 2023
@@ -91,6 +99,16 @@
   education2: Master at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
   education3: B.S. at <a href="https://www.gxnu.edu.cn/">Guangxi Normal University, China</a>
 
+- name: Jie Wu
+  info: Postdoc
+  photo: Jie_Wu.jpeg
+  email: wu_jie@gzlab.ac.cn
+  number_educ: 3
+  education1: PhD at <a href="https://www.smu.edu.cn/">Southern Medical University</a>
+  education2: Master at <a href="https://www.hrbmu.edu.cn/">Harbin Medical University</a>
+  education3: B.S. at <a href="https://www.hrbmu.edu.cn/">Harbin Medical University</a>
+
+
 - name: Ziliang Huang
   photo: ziliang.jpeg
   info: Research Assistant
@@ -98,15 +116,7 @@
   number_educ: 2
   education1: Master at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
   education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a> 
-  
-- name: Xinyue Chen
-  photo: XinyueChen.jpg
-  info: Research Assistant
-  email: chen_xinyue@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
-  education2: B.S. at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
-  
+
   
 - name: Liping Yao
   photo: Liping_Yao.jpg
