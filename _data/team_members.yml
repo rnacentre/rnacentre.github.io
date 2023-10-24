@@ -158,7 +158,6 @@
   education1: Master at <a href= "https://www.jlau.edu.cn/"> JiLin Agricultural University, China</a> & <a href= "http://www.jaas.com.cn/"> JiLin Academy of Agricultural Sciences</a>
   education2: B.S. at <a href= "https://www.neau.edu.cn/"> Northeast Agricultural University, China</a>
 
-
 - name: Yangyi Ren
   photo: Yangyi_Ren.jpeg
   info: Research Assistant
@@ -166,6 +165,22 @@
   number_educ: 2
   education1: Master at <a href= "https://www.henu.edu.cn/"> Henan University, China</a>
   education2: B.S. at <a href= "https://www.henu.edu.cn/"> Henan University, China</a>
+
+- name: Xiaofeng Chen
+  photo: xiaofeng_chen.jpeg
+  info: Research Assistant
+  email: chenxiaofeng98519@163.com 
+  number_educ: 2
+  education1: Master at <a href= "http://www.cau.edu.cn/"> China Agricultural University</a> 
+  education2: B.S. at <a href= "https://www.neau.edu.cn/"> Northeast Agricultural University, China</a>
+
+- name: Bichun Wu
+  photo: Bichun_Wu.jpeg
+  info: Research Assistant
+  email: 3026969124@qq.com 
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.scut.edu.cn/new/"> South China University of Technology </a>
+
 
 - name: Yalan Bi
   photo: Yalan.jpeg
