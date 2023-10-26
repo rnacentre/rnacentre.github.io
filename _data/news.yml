@@ -2,11 +2,34 @@
   headline: "Xiaofeng Chen is joining the lab as a Research Assistant. "
 
 - date: 19. Oct 2022
-  headline: "Recently, Prof. Zhichao Miao and Prof.Lin Huang co-published an article \
+  headline: "Recently, Prof.Zhichao Miao and Prof.Lin Huang co-published an article \
   entitled [Ribocentre-switch: a database of riboswitches](https://doi.org/10.1093/nar/gkad891) \
   in the Nucleic Acids Research, Ribocentre-switch may facilitate the understanding of RNA \
   structural conformational changes in response to ligand signaling.The database is publicly \
   available at https://riboswitch.ribocentre.org."
+
+- date: 14. Oct 2022
+  headline: "Recently, Prof.Zhichao Miao, Prof.Yuyao Song, and Prof.Irene Papatheodorou collaborated on an article \
+  entitled [Benchmarking strategies for cross-species integration of single-cell RNA sequencing data]\
+  (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576752/) in the Nature Communication. \
+  They benchmarked 28 combinations of gene homology mapping methods and data integration \
+  algorithms in a variety of biological settings and develop a new biology conservation metric \
+  to address the maintenance of cell type distinguishability."
+
+- date: 13. Oct 2022
+  headline: "Recently, Prof.Zhichao Miao, Prof.Jie Zha, and Prof.Yong Yu collaborated on an article \
+  entitled [Nr4a1 marks a distinctive ILC2 activation subset in the mouse inflammatory lung]\
+  (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576290/) in the BMC Biology. \
+  Their findings showed that activated ILC2s are a heterogenous population encompassing distinct subsets \
+  that have different propensities, and therefore provide an opportunity to explore PD-1's role in \
+  modulating the activity of ILC2s for disease prevention and therapy."
+
+- date: 3. Oct 2022
+  headline: "Recently, Prof.Zhichao Miao and Prof.Eric Westhof co-published an article \
+  entitled [Assessment of three-dimensional RNA structure prediction in CASP15]\
+  (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10168427/) \
+  in the bioRxiv. They reported assessments of RNA structure predictions in CASP15, \
+  the first CASP exercise that involved RNA structure modeling."
 
 - date: 15. Sep 2023
   headline: "Hao Sun is joining the lab as a Research Assistant. "
