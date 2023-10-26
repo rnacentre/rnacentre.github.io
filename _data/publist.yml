@@ -1,7 +1,7 @@
 - title: "Assessment of three-dimensional RNA structure prediction in CASP15."
   image: 
   description: 
-  authors: Das, R.#, Kretsch, RC., Simpkin, AJ., Mulvaney, T., Pham, P., Rangan, R., Bu, F., Keegan, RM., Topf, M., Rigden, DJ.,</b>Miao, Z.#</b>, Westhof, E.#
+  authors: Das, R.#, Kretsch, RC., Simpkin, AJ., Mulvaney, T., Pham, P., Rangan, R., Bu, F., Keegan, RM., Topf, M., Rigden, DJ.,<b>Miao, Z.#</b>, Westhof, E.#
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37162955/
     display: bioRxiv. 10.1101/2023.04.25.538330(2023).
@@ -11,7 +11,7 @@
 - title: "Nr4a1 marks a distinctive ILC2 activation subset in the mouse inflammatory lung."
   image: 
   description: 
-  authors: Xu, S., Zhang, Y., Liu, X., Liu, H., Zou, X., Zhang, L., Wang, J., Zhang, Z., Xu, X., Li, M., Li, K., Shi, S., Zhang, Y., </b>Miao, Z.</b>, Zha, J., Yu, Y.
+  authors: Xu, S., Zhang, Y., Liu, X., Liu, H., Zou, X., Zhang, L., Wang, J., Zhang, Z., Xu, X., Li, M., Li, K., Shi, S., Zhang, Y., <b>Miao, Z.</b>, Zha, J., Yu, Y.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37833706/
     display: BMC Biol. 10.1186/s12915-023-01690-3(2023).
@@ -21,7 +21,7 @@
 - title: "Benchmarking strategies for cross-species integration of single-cell RNA sequencing data."
   image: 
   description: 
-  authors: Song, Y., <b>Miao, Z.<b>, Brazma, A., Papatheodorou, I.
+  authors: Song, Y., <b>Miao, Z.</b>, Brazma, A., Papatheodorou, I.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/37838716/
     display: Nat Commun. 10.1038/s41467-023-41855-w(2023)
