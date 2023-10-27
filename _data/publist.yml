@@ -11,10 +11,10 @@
 - title: "Assessment of three-dimensional RNA structure prediction in CASP15."
   image: 
   description: 
-  authors: Das, R.#, Kretsch, RC., Simpkin, AJ., Mulvaney, T., Pham, P., Rangan, R., Bu, F., Keegan, RM., Topf, M., Rigden, DJ.,<b>Miao, Z.#</b>, Westhof, E.#
+  authors: Das, R.#, Kretsch, RC., Simpkin, AJ., Mulvaney, T., Pham, P., Rangan, R., <b>Bu, F.</b>, Keegan, RM., Topf, M., Rigden, DJ.,<b>Miao, Z.#</b>, Westhof, E.#
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/37162955/
-    display: bioRxiv. 10.1101/2023.04.25.538330(2023).
+    url: https://pubmed.ncbi.nlm.nih.gov/37876231/
+    display: Proteins. 10.1002/prot.26602(2023).
   highlight: 0
 
 
