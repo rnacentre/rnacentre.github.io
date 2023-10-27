@@ -1,3 +1,13 @@
+- title: "Regulatory circular RNAs in viral diseases: applications in diagnosis and therapy."
+  image: 
+  description: 
+  authors: Wang, W., Sun, L., Huang, M., Quan, Y., Jiang, T., <b>Miao, Z.#</b>, Zhang, Q.#
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2272118
+    display: RNA Biol. doi.org/10.1080/15476286.2023.2272118 (2023).
+  highlight: 0
+
+
 - title: "Assessment of three-dimensional RNA structure prediction in CASP15."
   image: 
   description: 
@@ -31,7 +41,7 @@
 - title: "Ribocentre-switch: a database of riboswitches."
   image: 
   description: 
-  authors: Bu, F., Lin, X., Liao, W., Lu, Z., He, Y., Luo, Y., Peng, X., Li, M., Huang, Y., Chen, X., Xiao, B., Jiang, J., Deng, J., Huang, J., Lin, T., <b>Miao, Z.#</b>, Huang L.#
+  authors: Bu, F., Lin, X., Liao, W., Lu, Z., He, Y., Luo, Y., Peng, X., Li, M., Huang, Y., Chen, X., Xiao, B., Jiang, J., Deng, J., Huang, J., Lin, T., <b>Miao, Z.#</b>, Huang, L.#
   link:
     url: https://doi.org/10.1093/nar/gkad891
     display: Nucleic Acids Res. gkad891 (2023).
