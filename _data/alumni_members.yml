@@ -46,3 +46,28 @@
   education1: PhD at <a href="https://fhs.um.edu.mo/zh-hant/#/">University of Macau, China</a>
   education2: Master at <a href="https://www.kmust.edu.cn/">Kunming University of Science and Technology, China</a>
   education3: B.S. at <a href="https://www.uoh.edu.cn/">Honghe University, China</a>
+
+  
+- name: Liping Yao
+  photo: Liping_Yao.jpg
+  info: Research Assistant
+  email: yao_liping@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "http://www.huhst.edu.cn/"> Hunan University of Humanities, Science and Technology</a>   
+  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University, China</a> 
+
+- name: Yangyi Ren
+  photo: Yangyi_Ren.jpeg
+  info: Research Assistant
+  email: 695936851@qq.com
+  number_educ: 2
+  education1: Master at <a href= "https://www.henu.edu.cn/"> Henan University, China</a>
+  education2: B.S. at <a href= "https://www.henu.edu.cn/"> Henan University, China</a>
+
+
+- name: Yalan Bi
+  photo: Yalan.jpeg
+  info: Visiting scientist
+  number_educ: 2
+  education1: Master at <a href="https://www.rug.nl/?lang=en/"> University of Groningen (RUG), The Netherlands</a>
+  education2: B.S. at <a href="https://en.xmu.edu.cn/">Xiamen University, China</a>
