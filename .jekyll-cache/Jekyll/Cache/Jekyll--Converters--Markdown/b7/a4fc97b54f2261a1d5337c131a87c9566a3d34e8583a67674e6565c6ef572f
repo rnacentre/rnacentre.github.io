@@ -1,0 +1,15 @@
+I")<h2 id="single-cell-omics-tools">Single-cell omics tools:</h2>
+<p><a href="https://github.com/SCCAF/sccaf">SCCAF</a>: Single Cell Clustering Assessment Framework   <br />
+<a href="https://github.com/chichaumiau/SCQUA">SCQUA</a>: Single Cell QUality Assessment  <br />
+<a href="https://github.com/theislab/kBET">kBET</a>: k-nearest neighbour Batch Effect Test  <br />
+<a href="http://www.braincellatlas.org">Brain Cell Atlas</a>: An Atlas of the Human Brain</p>
+
+<h2 id="computational-structural-biology-tools">Computational Structural biology tools:</h2>
+<p><a href="www.rnapuzzles.org">RNA-Puzzles</a>: A collective experiment for blind RNA structure prediction  <br />
+<a href="https://chichaumiau.github.io/rnapuzzlestoolkit">RNA-Puzzles toolkit</a>: A computational resource of RNA 3D structure benchmark datasets, structure manipulation, and evaluation tools  <br />
+<a href="https://sourceforge.net/projects/raspv180/">RASP</a>: RApid protein Side-chain Packing  <br />
+<a href="https://github.com/chichaumiau/RMDetect">RMDetect</a>: RNA structural Module Detect  <br />
+<a href="#">NBench</a>: A large-scale benchmarking database for nucleic acid binding residue prediction  <br />
+<a href="#">RBscore</a>: Prediction of nucleic acid binding probability in proteins: A neighboring residue network based score</p>
+
+:ET
