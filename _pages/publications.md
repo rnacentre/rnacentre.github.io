@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-(^ co-first author, # corresponding author)
+(# co-first author, * corresponding author)
 
 ## Group highlights
 
