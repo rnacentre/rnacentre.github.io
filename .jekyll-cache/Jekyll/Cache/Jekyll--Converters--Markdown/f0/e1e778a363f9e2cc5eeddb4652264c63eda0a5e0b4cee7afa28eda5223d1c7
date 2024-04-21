@@ -1,4 +1,4 @@
-I"ž<p>We are a research group at the <a href="https://www.grmh-gdl.cn">Guangzhou Laboratory</a>.
+I"£<p>We are a research group at the <a href="https://gzlab.ac.cn/">Guangzhou National Laboratory</a>.
 We are a research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on <a href="http://localhost:4000/vacancies">(Vacancies)</a>.</p>
 
 <h2 id="miao-lab">Miao lab</h2>
@@ -32,7 +32,7 @@ to advance our knowledge of cells and tissues.</p>
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="http://localhost:4000/images/homepic/group_new.jpeg" alt="Slide 1" style="height:400px;" />
+            <img src="http://localhost:4000/images/homepic/group_new.png" alt="Slide 1" style="height:400px;" />
         </div>
         <div class="item">
             <img src="http://localhost:4000/images/homepic/group.jpeg" alt="Slide 1" style="height:400px;" />

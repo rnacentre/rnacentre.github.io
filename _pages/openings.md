@@ -16,7 +16,7 @@ permalink: /vacancies
 * Competitive salary, **350K-550K RMB/year (equivalent to 44K-70K GBP)**
 * Housing allowance **200K RMB**
 * Accommodation allowance (~36K RMB/year, in addition to salary)
-* Additional performance allowance, **up to 30% salary**
+* Additional performance allowance, **up to 10% salary**
 * Various work/health insurances
 * Excellent environment with kitchen, gym, park, etc. 
 
@@ -37,7 +37,7 @@ If you are interested in joining us, please send us an email along with a brief 
 * Research funding **350K RMB/2years**
 * Housing allowance **600K RMB** (if you stay in the lab after 2 years)
 * Accommodation allowance (~36K RMB/year, in addition to salary)
-* Additional performance allowance, **up to 30% salary**
+* Additional performance allowance, **up to 10% salary**
 * Various work/health insurances
 * Excellent environment with kitchen, gym, park, etc. 
 
@@ -54,9 +54,9 @@ If you are interested in joining us, please send us an email along with a brief 
 ### Research Assistant
 
 **We offer**
-* Competitive salary, **120K-180K RMB/year**
+* Competitive salary, **100K-180K RMB/year**
 * Accommodation allowance (~36K RMB/year, in addition to salary)
-* Additional performance allowance, **up to 30% salary**
+* Additional performance allowance, **up to 10% salary**
 * Various work/health insurances
 * Excellent environment with kitchen, gym, park, etc.
 

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Guangzhou Laboratory](https://www.grmh-gdl.cn).
+We are a research group at the [Guangzhou National Laboratory](https://gzlab.ac.cn/).
 We are a research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on [(Vacancies)]({{ site.url }}{{ site.baseurl }}/vacancies).
 
 ## Miao lab
