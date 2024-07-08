@@ -1,3 +1,21 @@
+- title: "CTCF mutation at R567 causes developmental disorders via 3D genome rearrangement and abnormal neurodevelopment"
+  image: 
+  description: 
+  authors: Jie Zhang, Gongcheng Hu, Yuli Lu, Huawei Ren, <b>Yin Huang</b>, Yulin Wen, Binrui Ji, Diyang Wang, Haidong Wang, Huisheng Liu, Ning Ma, Lingling Zhang, Guangjin Pan, Yibo Qu, Hua Wang, Wei Zhang, <b>Zhichao Miao</b>, Hongjie Yao 
+  link:
+    url: https://www.nature.com/articles/s41467-024-49684-1
+    display: Nat Commun. 15(1):5524.(2024).
+  highlight: 0
+
+- title: "Clinical genomics expands the link between erroneous cell division, primary microcephaly and intellectual disability"
+  image: 
+  description: 
+  authors: Saima, Amjad Khan, Sajid Ali, <b>Jiuhong Jiang</b>, <b>Zhichao Miao</b>, Atif Kamil, Shahid Niaz Khan, Stefan T Arold 
+  link: 
+    url: https://link.springer.com/article/10.1007/s10048-024-00759-7
+    display: Neurogenetics. doi/10.1007/s10048-024-00759-7(2024).
+  highlight: 0
+
 - title: "CATD: a reproducible pipeline for selecting cell-type deconvolution methods across tissues"
   image: 
   description: 
