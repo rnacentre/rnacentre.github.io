@@ -1,10 +1,20 @@
+- title: "A brain cell atlas integrating single-cell transcriptomes across human brain regions"
+  image: 
+  description: 
+  authors: <b>Xinyue Chen</b>, <b>Yin Huang</b>, <b>Liangfeng Huang</b>, <b>Ziliang Huang</b>, Zhao-Zhe Hao, <b>Lahong Xu</b>, Nana Xu, Zhi Li, Yonggao Mou, Mingli Ye, Renke You, Xuegong Zhang, Sheng Liu, <b>Zhichao Miao</b>
+  link: 
+    url: https://www.nature.com/articles/s41591-024-03150-z
+    display: Nature Medicine. https://doi.org/10.1038/s41586-024-07748-8.
+  highlight: 0
+
+
 - title: "CTCF mutation at R567 causes developmental disorders via 3D genome rearrangement and abnormal neurodevelopment"
   image: 
   description: 
   authors: Jie Zhang, Gongcheng Hu, Yuli Lu, Huawei Ren, <b>Yin Huang</b>, Yulin Wen, Binrui Ji, Diyang Wang, Haidong Wang, Huisheng Liu, Ning Ma, Lingling Zhang, Guangjin Pan, Yibo Qu, Hua Wang, Wei Zhang, <b>Zhichao Miao</b>, Hongjie Yao 
   link:
     url: https://www.nature.com/articles/s41467-024-49684-1
-    display: Nat Commun. 15(1):5524.(2024).
+    display: Nature Communications. 15(1):5524.(2024).
   highlight: 0
 
 - title: "Clinical genomics expands the link between erroneous cell division, primary microcephaly and intellectual disability"
