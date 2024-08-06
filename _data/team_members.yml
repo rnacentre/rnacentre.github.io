@@ -160,8 +160,8 @@
   info: Research Assistant
   email: lin_jiajun@gzlab.ac.cn
   number_educ: 2
-  education1: Master at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
-  education2: B.S. at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
+  education1: Master at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
+  education2: B.S. at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
 
 - name: Hao Sun
   photo: Hao_Sun.jpeg
@@ -171,7 +171,6 @@
   education1: Master at <a href= "https://www.jlau.edu.cn/"> JiLin Agricultural University, China</a> & <a href= "http://www.jaas.com.cn/"> JiLin Academy of Agricultural Sciences</a>
   education2: B.S. at <a href= "https://www.neau.edu.cn/"> Northeast Agricultural University, China</a>
 
-
 - name: Linyan Hu
   photo: linyan_hu.jpg
   info: Research Assistant
@@ -179,7 +178,6 @@
   number_educ: 2
   education1: Master at <a href= "https://www.birmingham.ac.uk/"> University of Birmingham, UK</a> 
   education2: B.S. at <a href= "https://www.neau.edu.cn/"> Anhui University of Chinese Medicine, China</a>
-
 
 - name: Yadi Tang
   photo: Yadi_Tang.jpeg
@@ -189,3 +187,9 @@
   education1: Master at <a href= "http://www.xjtu.edu.cn"> Xi'an Jiaotong University, China</a> 
   education2: B.S. at <a href= "http://www.ncu.edu.cn"> Nanchang University, China</a>
 
+- name: Guoquan Ning
+  photo: Guoquan_Ning.jpeg
+  info: Research Assistant
+  email: keepgoing5231@163.com 
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.gdut.edu.cn/"> Guangdong University of Technology, China</a>
