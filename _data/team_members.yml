@@ -63,6 +63,30 @@
   number_educ: 1
   education1: B.S. at <a href="http://www.zzu.edu.cn/">Zhengzhou University, China </a>
 
+- name: Bowen Xiao
+  photo: xiaobowen.jpeg
+  info: Graduate student 2024
+  email: xiao_bowen@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.ku.dk"> University of Copenhagen, Denmark </a>
+  education2: B.S. at <a href= "https://www.hzau.edu.cn" >Huazhong Agricultural University, China  </a>
+
+- name: Jiajun Lin
+  photo: Jiajun_Lin.jpeg
+  info: Graduate student 2024
+  email: lin_jiajun@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
+  education2: B.S. at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
+
+- name: Linyan Hu
+  photo: linyan_hu.jpg
+  info: Graduate student 2024
+  email: hulinyan0831@163.com 
+  number_educ: 2
+  education1: Master at <a href= "https://www.birmingham.ac.uk/"> University of Birmingham, UK</a> 
+  education2: B.S. at <a href= "https://www.neau.edu.cn/"> Anhui University of Chinese Medicine, China</a>
+
 - name: Bichun Wu
   photo: Bichun_Wu.jpeg
   info: Graduate student 2024
@@ -139,14 +163,6 @@
   education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a> 
 
 
-- name: Bowen Xiao
-  photo: xiaobowen.jpeg
-  info: Research Assistant
-  email: xiao_bowen@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://www.ku.dk"> University of Copenhagen, Denmark </a>
-  education2: B.S. at <a href= "https://www.hzau.edu.cn" >Huazhong Agricultural University, China  </a>
-
 - name: Ke Fang
   photo: fangke.jpeg
   info: Research Assistant
@@ -155,13 +171,6 @@
   education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
   education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
 
-- name: Jiajun Lin
-  photo: Jiajun_Lin.jpeg
-  info: Research Assistant
-  email: lin_jiajun@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://www.xjtlu.edu.cn"> Xi’an Jiaotong-liverpool University</a>
-  education2: B.S. at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
 
 - name: Hao Sun
   photo: Hao_Sun.jpeg
@@ -171,21 +180,6 @@
   education1: Master at <a href= "https://www.jlau.edu.cn/"> JiLin Agricultural University, China</a> & <a href= "http://www.jaas.com.cn/"> JiLin Academy of Agricultural Sciences</a>
   education2: B.S. at <a href= "https://www.neau.edu.cn/"> Northeast Agricultural University, China</a>
 
-- name: Linyan Hu
-  photo: linyan_hu.jpg
-  info: Research Assistant
-  email: hulinyan0831@163.com 
-  number_educ: 2
-  education1: Master at <a href= "https://www.birmingham.ac.uk/"> University of Birmingham, UK</a> 
-  education2: B.S. at <a href= "https://www.neau.edu.cn/"> Anhui University of Chinese Medicine, China</a>
-
-- name: Yadi Tang
-  photo: Yadi_Tang.jpeg
-  info: Research Assistant
-  email: tangyadi227@163.com 
-  number_educ: 2
-  education1: Master at <a href= "http://www.xjtu.edu.cn"> Xi'an Jiaotong University, China</a> 
-  education2: B.S. at <a href= "http://www.ncu.edu.cn"> Nanchang University, China</a>
 
 - name: Guoquan Ning
   photo: Guoquan_Ning.jpeg
