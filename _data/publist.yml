@@ -8,13 +8,13 @@
   highlight: 0
 
 - title: "A brain cell atlas integrating single-cell transcriptomes across human brain regions"
-  image: 
+  image: BrainAltas.png
   description: 
   authors: <b>Xinyue Chen</b>, <b>Yin Huang</b>, <b>Liangfeng Huang</b>, <b>Ziliang Huang</b>, Zhao-Zhe Hao, <b>Lahong Xu</b>, Nana Xu, Zhi Li, Yonggao Mou, Mingli Ye, Renke You, Xuegong Zhang, Sheng Liu*, <b>Zhichao Miao*</b>
   link: 
     url: https://www.nature.com/articles/s41591-024-03150-z
     display: Nature Medicine. https://doi.org/10.1038/s41586-024-07748-8.
-  highlight: 0
+  highlight: 1
 
 
 - title: "CTCF mutation at R567 causes developmental disorders via 3D genome rearrangement and abnormal neurodevelopment"
