@@ -153,7 +153,7 @@
 
 - title: "Identification of visual cortex cell types and species differences using single-cell RNA sequencing"
   image: visual_cortex.png
-  description: 
+  description: We comprehensively mapped the cellular landscape of the primate visual cortex, revealing conservation and diversity of different cell types across species, and identified novel marker genes and cell types using whole-cell electrophysiology, patch clamp and single-cell sequencing (Patch-seq) and fluorescence in situ hybridization.
   authors: Wei, J.#, Hao, Z.#, Xu, C., Huang, M., Tang, L., Xu, N., Liu, R., Shen, Y., Teichmann, S. A., <b>Miao, Z.* </b>, & Liu, S.
   link:  
     url: https://www.nature.com/articles/s41467-022-34590-1
