@@ -195,3 +195,10 @@
   number_educ: 2
   education1: Master at <a href= " https://www.sysu.edu.cn"> Sun Yat-sen University, China</a> 
   education2: B.S. at <a href= "http://www.henu.edu.cn"> Henan University, China</a>  
+
+- name: Jin Zhang
+  photo: Jin_Zhang.png
+  info: Visiting student
+  email: 2590219633@qq.com
+  number_educ: 1
+  education1: B.S. at <a href= "http://en.hit.edu.cn/">Harbin Institute of Technology, China</a>
