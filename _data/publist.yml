@@ -1,10 +1,28 @@
+- title: "A pleiotropic recurrent dominant ITPR3 variant causes a complex multisystemic disease"
+  image: 
+  description: 
+  authors: Molitor, A., Lederle, A., Radosavljevic, M., Sapuru, V., Me, Z. T., Yang, J., Shirin, M., Collin-Bund, V., Jerabkova-Roda, K., <b>Miao, Z.</b>, Bernard, A., Rolli, V., Grenot, P., Castro, C. N., Rosenzwajg, M., Lewis, E. G., Person, R., Esperón-Moldes, U. S., Kaare, M., Nokelainen, P. T., Batzir, N. A., Hoffer, G. Z., Paul, N., Stemmelen, T., Naegely, L., Hanauer, A., Bibi-Triki, S., Grün, S., Jung, S., Busnelli, I., Tripolszki, K., Al-Ali, R., Ordonez, N., Bauer, P., Song, E., Zajo, K., Partida-Sanchez, S., Robledo-Avila, F., Kumanovics, A., Louzoun, Y., Hirschler, A., Pichot, A., Toker, O., Mejía, C. A. M., Parvaneh, N., Knapp, E., Hersh, J. H., Kenney, H., Delmonte, O. M., Notarangelo, L. D., Goetz, J. G., Kahwash, S. B., Carapito, C., Bajwa, R. P. S., Thomas, C., Ehl, S., Isidor, B., Carapito, R., Abraham, R. S., Hite, R. K., Marcus, N., Bertoli-Avella, A. & Bahram, S.
+  link: 
+    url: https://www.science.org/doi/10.1126/sciadv.ado5545?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+    display: Science advances10, (2024) 
+  highlight: 0
+
+- title: "Loss of histone deubiquitinase Bap1 triggers anti-tumor immunity"
+  image: 
+  description: 
+  authors: Chang, H., Li, M., Zhang, L., Li, M., Ong, S. H., Zhang, Z., Zheng, J., Xu, X., Zhang, Y., Wang, J., Liu, X., Li, K., Luo, Y., Wang, H., <b>Miao, Z.</b>, Chen, X., Zha, J. & Yu, Y.
+  link: 
+    url: https://link.springer.com/article/10.1007/s13402-024-00978-y
+    display: Cell. Oncol. (2024). doi:10.1007/s13402-024-00978-y
+  highlight: 0
+
 - title: "A cellular reference atlas across human brain regions"
   image: 
   description: 
   authors: <b>Liangfeng Huang</b>, <b>Zhichao Miao*</b>
   link: 
     url: https://www.nature.com/articles/s41591-024-03151-y
-    display: Nature Medicine. https://doi.org/10.1038/s41591-024-03151-y.
+    display: Nat. Med. 1–2 (2024).
   highlight: 0
 
 - title: "A brain cell atlas integrating single-cell transcriptomes across human brain regions"
@@ -13,7 +31,7 @@
   authors: <b>Xinyue Chen</b>, <b>Yin Huang</b>, <b>Liangfeng Huang</b>, <b>Ziliang Huang</b>, Zhao-Zhe Hao, <b>Lahong Xu</b>, Nana Xu, Zhi Li, Yonggao Mou, Mingli Ye, Renke You, Xuegong Zhang, Sheng Liu*, <b>Zhichao Miao*</b>
   link: 
     url: https://www.nature.com/articles/s41591-024-03150-z
-    display: Nature Medicine. https://doi.org/10.1038/s41586-024-07748-8.
+    display: Nat. Med. (2024). doi:10.1038/s41591-024-03150-z
   highlight: 1
 
 
