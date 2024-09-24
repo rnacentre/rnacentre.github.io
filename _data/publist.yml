@@ -9,7 +9,7 @@
 
 - title: "A brain cell atlas integrating single-cell transcriptomes across human brain regions"
   image: BrainAltas.png
-  description: 
+  description: We presents a comprehensive single-cell atlas of the human brain, covering nearly all major brain regions in health and disease, and demonstrates the utility of using the atlas to discover putative neural progenitor cells (NPCs) and understand microenvironment-driven differences in microglia. The brain cell atlas will become a valuable resource for studying brain cells and functions, and enhance our understanding of neuronal processes and neurodegenerative diseases.
   authors: <b>Xinyue Chen</b>, <b>Yin Huang</b>, <b>Liangfeng Huang</b>, <b>Ziliang Huang</b>, Zhao-Zhe Hao, <b>Lahong Xu</b>, Nana Xu, Zhi Li, Yonggao Mou, Mingli Ye, Renke You, Xuegong Zhang, Sheng Liu*, <b>Zhichao Miao*</b>
   link: 
     url: https://www.nature.com/articles/s41591-024-03150-z
