@@ -80,6 +80,16 @@
   education1: Master at <a href= "http://www.xjtu.edu.cn"> Xi'an Jiaotong University, China</a> 
   education2: B.S. at <a href= "http://www.ncu.edu.cn"> Nanchang University, China</a>
 
+- name: Yin Huang
+  info: Postdoc
+  photo: yin_huang.jpeg
+  email: huang_yin@gzlab.ac.cn
+  number_educ: 3 
+  education1: PhD at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
+  education2: Master at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
+  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a>
+  
+
 - name: Yalan Bi
   photo: Yalan.jpeg
   info: Visiting scientist
