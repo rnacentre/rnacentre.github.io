@@ -108,15 +108,6 @@
   number_educ: 1
   education1: B.S. at <a href= "https://www.gzhmu.edu.cn/"> Guangzhou Medical University, China </a>
 
-- name: Yin Huang
-  info: Postdoc
-  photo: yin_huang.jpeg
-  email: huang_yin@gzlab.ac.cn
-  number_educ: 3 
-  education1: PhD at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
-  education2: Master at <a href="https://www.picb.ac.cn/picb/#/">CAS-MPG Partner Institute for Computational Biology</a> 
-  education3: B.S. at <a href="https://www.jxnu.edu.cn/">Jiangxi Normal University, China</a> 
-
 - name: Lahong Xu
   info: Postdoc
   photo: Lahong_Xu.jpg
@@ -210,3 +201,10 @@
   number_educ: 2
   education1: Master at <a href= "https://www.cuhk.edu.hk/chinese/"> The Chinese University of Hong Kong, China</a> 
   education2: B.S. at <a href= "https://www.hkbu.edu.hk/zh_hk.html"> Hong Kong Baptist University, China</a>  
+
+- name: Xinmiao Zhu
+  photo: Xinmiao_Zhu.jpg
+  info: Graduate Student
+  email: 2553220645@qq.com
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.scut.edu.cn/"> South China University Of Technology, China</a>
