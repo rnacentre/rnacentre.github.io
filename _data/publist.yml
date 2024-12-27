@@ -7,7 +7,15 @@
     display: Nat Methods. (2024). doi:10.1038/s41592-024-02543-9.
   highlight: 1
 
-  
+- title: "Virome analysis provides new insights into the pathogenesis mechanism and treatment of SLE disease"
+  image: 
+  description: 
+  authors: Wu Y, Zhang Z, Wang X, Liu X, Qiu Y, Ge X, <b>Miao Z</b>, Meng X, Peng Y
+  link:
+    url: https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1484529/full
+    display: Front Cell Infect Microbiol. (2024). 
+  highlight: 0
+
 - title: "A pleiotropic recurrent dominant ITPR3 variant causes a complex multisystemic disease"
   image: 
   description: 
