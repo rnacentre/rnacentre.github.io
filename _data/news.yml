@@ -2,7 +2,6 @@
   headline: "We published a paper in Nature Communications [Alleviating batch effects in cell type deconvolution with SCCAF-D](https://www.nature.com/articles/s41467-024-55213-x). \
   we present 'SCCAF-D' (Single-Cell Clustering Assessment Framework optimised reference for Deconvolution), a framework that achieves stable accuracies about 0.75 Pearson Correlation Coefficient (PCC) in a 'cross-reference' setting via optimally prepared reference data, thereby improving the accuracy of cell proportion inference."
 
-
 - date: 30. Dec 2024
   headline: "We published a paper in European Journal of Human Genetics [RICTOR variants are associated with neurodevelopmental disorders](https://www.nature.com/articles/s41431-024-01774-w). \
   This study revealed that the mTORC2 pathway was hyperactivated in a patient’s fibroblasts carrying a missense variant, while the expression of RICTOR remained unchanged, indicating a gain-of-function mechanism and confirming the potential role of RICTOR in neuronal cell development."
