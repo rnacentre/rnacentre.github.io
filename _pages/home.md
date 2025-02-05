@@ -37,28 +37,36 @@ to advance our knowledge of cells and tissues.
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/group_new.png" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpeg" alt="Slide 0" style="height:400px;"/>
+        </div>
+        <div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home2.jpeg" alt="Slide 1" style="height:400px;"/>
+        </div>
+        <div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/group_new.png" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/group.jpeg" alt="Slide 1" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/group.jpeg" alt="Slide 3" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 2" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/rnapuzzles_screenshot.png" alt="Slide 4" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 3" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/monkey_cover1.jpeg" alt="Slide 5" style="height:400px;"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 4" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/nonWC_design.png" alt="Slide 6" style="height:400px;"/>
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 5" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 7" style="height:400px;"/>
         </div>
 
     </div>
