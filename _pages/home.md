@@ -44,12 +44,12 @@ to advance our knowledge of cells and tissues.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpeg" alt="Slide 0" style="height:400px;"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home1.jpeg" alt="Slide 1" style="height:400px;"/>
         </div>
-        <div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/home2.jpeg" alt="Slide 1" style="height:400px;"/>
         </div>
-        <div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/group_new.png" alt="Slide 2" style="height:400px;"/>
         </div>
         <div class="item">
@@ -68,7 +68,6 @@ to advance our knowledge of cells and tissues.
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/sccaf_cover.jpg" alt="Slide 7" style="height:400px;"/>
         </div>
-
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
