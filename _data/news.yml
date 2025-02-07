@@ -1,3 +1,6 @@
+- date: 10. Jan 2025
+  headline: "Our research team organized an unforgettable team-building trip to Nankunshan, more details are [here](https://www.rnacentre.org/teambuilding/)."
+
 - date: 30. Dec 2024
   headline: "We published a paper in Nature Communications [Alleviating batch effects in cell type deconvolution with SCCAF-D](https://www.nature.com/articles/s41467-024-55213-x). \
   we present 'SCCAF-D' (Single-Cell Clustering Assessment Framework optimised reference for Deconvolution), a framework that achieves stable accuracies about 0.75 Pearson Correlation Coefficient (PCC) in a 'cross-reference' setting via optimally prepared reference data, thereby improving the accuracy of cell proportion inference."
