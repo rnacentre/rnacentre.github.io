@@ -109,15 +109,6 @@
   number_educ: 1
   education1: B.S. at <a href= "https://www.gzhmu.edu.cn/"> Guangzhou Medical University, China </a>
 
-- name: Lahong Xu
-  info: Postdoc
-  photo: Lahong_Xu.jpg
-  email: xu_lahong@gzlab.ac.cn
-  number_educ: 3
-  education1: PhD at <a href="https://www.tamu.edu">Texas A&M University, USA</a>
-  education2: Master at <a href="https://www.sysu.edu.cn">Sun Yat-Sen University, China</a>
-  education3: B.S. at <a href="https://www.hainmc.edu.cn">Hainan Medical University, China</a>
-
 - name: Baowei Huang
   info: Postdoc
   photo: Baowei_Huang.jpeg
