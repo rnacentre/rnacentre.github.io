@@ -183,8 +183,16 @@
   info: Research Assistant
   email: huang_lijing@gzlab.ac.cn 
   number_educ: 2
-  education1: Master at <a href= " https://www.sysu.edu.cn"> Sun Yat-sen University, China</a> 
-  education2: B.S. at <a href= "http://www.henu.edu.cn"> Henan University, China</a>  
+  education1: Master at <a href= "https://www.sysu.edu.cn"> Sun Yat-sen University, China</a> 
+  education2: B.S. at <a href= "http://www.henu.edu.cn"> Henan University, China</a> 
+
+- name: Wenjili Tian 
+  photo: TIAN_Wenjili.jpeg
+  info: Research Assistant
+  email: tian_wenjili@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://hkust.edu.hk/"> The Hong Kong University of Science and Technology, China</a> 
+  education2: B.S. at <a href= "https://www.scut.edu.cn/"> South China University of Technology, China</a>
 
 - name: Jin Zhang
   photo: Jin_Zhang.png
