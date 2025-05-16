@@ -102,6 +102,27 @@
   number_educ: 1
   education1: B.S. at <a href= "https://www.gzhmu.edu.cn/"> Guangzhou Medical University, China </a>
 
+- name: Jin Zhang
+  photo: Jin_Zhang.png
+  info: Visiting student 2024
+  email: 2590219633@qq.com
+  number_educ: 1
+  education1: B.S. at <a href= "http://en.hit.edu.cn/">Harbin Institute of Technology, China</a>
+
+- name: Xinmiao Zhu
+  photo: Xinmiao_Zhu.jpeg
+  info: Graduate Student 2025
+  email: 2553220645@qq.com
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.scut.edu.cn/"> South China University Of Technology, China</a>
+
+- name: Chenhan Xing
+  photo: Chenhan_Xing.jpeg
+  info: Graduate Student 2025
+  email: 1826500732@qq.com
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.sysu.edu.cn/"> Sun Yat-sen University, China</a>
+
 - name: Baowei Huang
   info: Postdoc
   photo: Baowei_Huang.jpeg
@@ -194,24 +215,3 @@
   number_educ: 2
   education1: Master at <a href= "https://www.uic.edu.cn/en/"> Beijing Normal-Hong Kong Baptist University, China</a> 
   education2: B.S. at <a href= "https://www.bu.edu/cds-faculty/"> Boston University, America</a>  
-
-- name: Jin Zhang
-  photo: Jin_Zhang.png
-  info: Visiting student
-  email: 2590219633@qq.com
-  number_educ: 1
-  education1: B.S. at <a href= "http://en.hit.edu.cn/">Harbin Institute of Technology, China</a>
-
-- name: Xinmiao Zhu
-  photo: Xinmiao_Zhu.jpeg
-  info: Graduate Student
-  email: 2553220645@qq.com
-  number_educ: 1
-  education1: B.S. at <a href= "https://www.scut.edu.cn/"> South China University Of Technology, China</a>
-
-- name: Chenhan Xing
-  photo: Chenhan_Xing.jpeg
-  info: Graduate Student
-  email: 1826500732@qq.com
-  number_educ: 1
-  education1: B.S. at <a href= "https://www.sysu.edu.cn/"> Sun Yat-sen University, China</a>
