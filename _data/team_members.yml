@@ -123,6 +123,20 @@
   number_educ: 1
   education1: B.S. at <a href= "https://www.sysu.edu.cn/"> Sun Yat-sen University, China</a>
 
+- name: Yijun Chen
+  photo: Yijun_Chen.jpeg
+  info: Master student 2025
+  email: 15815369272@163.com
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.hzu.edu.cn"> Huizhou University, China </a>
+
+- name: Yiting Fang
+  photo: Yiting_Fang.jpeg
+  info: Master student 2025
+  email: eatingf103@163.com
+  number_educ: 1
+  education1: B.S. at <a href= "https://www.csuft.edu.cn"> Central South University of Forestry and Technology, China </a>
+
 - name: Baowei Huang
   info: Postdoc
   photo: Baowei_Huang.jpeg
