@@ -120,6 +120,15 @@
   number_educ: 1
   education1: B.S. at <a href= "https://www.sysu.edu.cn/"> Sun Yat-sen University, China</a>
 
+- name: Liangfeng Huang
+  info: Postdoc
+  photo: Liangfeng_Huang.jpeg
+  email: huang_liangfeng@gzlab.ac.cn
+  number_educ: 3
+  education1: PhD at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
+  education2: Master at <a href="https://www.gxu.edu.cn/">Guangxi University</a>
+  education3: B.S. at <a href="https://www.gxnu.edu.cn/">Guangxi Normal University, China</a>
+
 - name: Yalan Bi
   photo: Yalan.jpeg
   info: Visiting scientist
