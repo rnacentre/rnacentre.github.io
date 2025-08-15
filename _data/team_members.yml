@@ -81,7 +81,7 @@
   education2: B.S. at <a href= "https://www.jnu.edu.cn"> Jinan University</a>
 
 - name: Linyan Hu
-  photo: linyan_hu.jpg
+  photo: linyan_hu.jpeg
   info: Graduate student 2024
   email: hulinyan0831@163.com 
   number_educ: 2
@@ -164,6 +164,15 @@
   education1: PhD at <a href="https://ibp.cas.cn/">Institute of Biophysics, Chinese Academy of Sciences</a>
   education2: B.S. at <a href="https://life.hust.edu.cn/">Huazhong University of Science and Technology</a>
 
+- name: Xiao Jia
+  info: Postdoc
+  photo: Xiao_Jia.jpeg
+  email: jia_xiao@gzlab.ac.cn
+  number_educ: 3
+  education1: PhD at <a href="http://www.nankai.edu.cn/">Nankai University, China</a>
+  education2: Master at <a href="https://www.cupl.edu.cn/">Science and China University of Political Science and Law, China</a>
+  education3: B.S. at <a href="https://www.sxmu.edu.cn/">Shanxi Medical University, China</a>
+
 - name: Ziliang Huang
   photo: ziliang.jpeg
   info: Research Assistant
@@ -171,7 +180,6 @@
   number_educ: 2
   education1: Master at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
   education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a> 
-
 
 - name: Ke Fang
   photo: fangke.jpeg
