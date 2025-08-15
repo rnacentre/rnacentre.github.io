@@ -14,8 +14,8 @@
   info: Associate Investigator
   email: wang_yunmei@gzlab.ac.cn
   number_educ: 2
-  education1: PhD at <a "https://kiz.cas.cn/">Kunming Institute of Zoology, CAS</a>
-  education2: B.S. at <a "https://www.jsu.edu.cn/">Jishou University, China</a> 
+  education1: PhD at <a href="https://kiz.cas.cn/">Kunming Institute of Zoology, CAS</a>
+  education2: B.S. at <a href="https://www.jsu.edu.cn/">Jishou University, China</a> 
 
 - name: Zhuoran Yang
   photo : Zhuoran_Yang.jpg
