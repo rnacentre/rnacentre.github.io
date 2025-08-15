@@ -9,13 +9,21 @@
   education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
   education5: Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
 
+- name: Yunmei Wang
+  photo : Yunmei_Wang.jpeg
+  info: Associate Investigator
+  email: wang_yunmei@gzlab.ac.cn
+  number_educ: 2
+  education1: PhD at <a https://kiz.cas.cn/">Kunming Institute of Zoology, CAS</a>
+  education2: B.S. at <a https://www.jsu.edu.cn/">Jishou University, China</a> 
+
 - name: Zhuoran Yang
   photo : Zhuoran_Yang.jpg
   info: Lab Manager
   email: YANG_ZHUORAN@gzlab.ac.cn
   number_educ: 2
   education1: Intermediate Accountant at <a href="https://www.sxicc.ac.cn/">Institute of Coal Chemistry, CAS</a>
-  education2 : B.S. at <a href="http://www.hrbcu.edu.cn/">Harbin University of Commerce, Financial Management-Accounting </a> 
+  education2: B.S. at <a href="http://www.hrbcu.edu.cn/">Harbin University of Commerce, Financial Management-Accounting</a> 
 
 - name: Fan Bu
   photo: fan.jpg
