@@ -117,6 +117,14 @@
   number_educ: 1
   education1: B.S. at <a href= "http://en.hit.edu.cn/">Harbin Institute of Technology, China</a>
 
+- name: Hao Sun
+  photo: Hao_Sun.jpeg
+  info: Graduate Student 2025
+  email: sun_hao@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.jlau.edu.cn/"> JiLin Agricultural University, China</a> & <a href= "http://www.jaas.com.cn/"> JiLin Academy of Agricultural Sciences</a>
+  education2: B.S. at <a href= "https://www.neau.edu.cn/"> Northeast Agricultural University, China</a>
+
 - name: Xinmiao Zhu
   photo: Xinmiao_Zhu.jpeg
   info: Graduate Student 2025
@@ -189,16 +197,6 @@
   number_educ: 2
   education1: Master at <a href= "https://www.sysu.edu.cn/">Sun Yat-Sen University </a>
   education2: B.S. at <a href= "https://www.muc.edu.cn/index.htm">Minzu University of China </a>
-
-
-- name: Hao Sun
-  photo: Hao_Sun.jpeg
-  info: Research Assistant
-  email: sun_hao@gzlab.ac.cn
-  number_educ: 2
-  education1: Master at <a href= "https://www.jlau.edu.cn/"> JiLin Agricultural University, China</a> & <a href= "http://www.jaas.com.cn/"> JiLin Academy of Agricultural Sciences</a>
-  education2: B.S. at <a href= "https://www.neau.edu.cn/"> Northeast Agricultural University, China</a>
-
 
 - name: Guoquan Ning
   photo: Guoquan_Ning.jpeg
