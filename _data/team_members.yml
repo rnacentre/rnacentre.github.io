@@ -222,3 +222,11 @@
   number_educ: 2
   education1: Master at <a href= "https://www.bu.edu/cds-faculty/"> Boston University, America</a> 
   education2: B.S. at <a href= "https://www.uic.edu.cn/en/"> Beijing Normal-Hong Kong Baptist University, China</a>
+
+- name: Mengchang Xu
+  photo: Mengchang_Xu.jpeg
+  info: Research Assistant
+  email: 1273007233@qq.com
+  number_educ: 2
+  education1: Master at <a href= "https://www.neu.edu.cn"> Northeastern University, China</a> 
+  education2: B.S. at <a href= "https://www.smu.edu.cn"> Southern Medical University, China</a>
