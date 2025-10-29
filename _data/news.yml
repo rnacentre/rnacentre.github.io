@@ -5,6 +5,10 @@
 - date: 15. Oct 2025
   headline: "Mengchang Xu is joining the lab as a Research Assistant. "
 
+- date: 3. Oct 2025
+  headline: "We published a paper in Proteins [The RNA-Puzzles Assessments of RNA-Only Targets in CASP16](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.70052). \
+  We applied the automated evaluation system accumulated by the RNA-Puzzles community since 2011 to the RNA competition in CASP16 (2024). We systematically compared the consistency between predicted and measured three-dimensional structures, looking not only at global indicators (RMSD, TM-score, GDT, lDDT) but also at key details such as stereochemistry, Watson-Crick/non-Watson-Crick pairing, and base stacking. This revealed that large-size/multimeric RNA and atypical base pairing remain weak points in current methods."
+
 - date: 13. Aug 2025
   headline: "Yunmei Wang is joining the lab as an Associate Investigator. "
 
