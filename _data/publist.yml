@@ -1,3 +1,21 @@
+- title: "GlycoRNAdb: a database of glycoRNA sequences, structures, abundance, and glycan information across tissues and cell lines"
+  image: 
+  description: 
+  authors: Chuxin Zheng, <b>Ying Ao</b>, Zhen Zhang, Shiqiang Mei, Abdul Hafeez, Wenkai Teng, Bin Li, Lianghu Qu, <b>Zhichao Miao<sup>*</sup></b>, Lingling Zheng
+  link: 
+    url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1246/8340160
+    display: Nucleic acids research, gkaf1246. (2025).
+  highlight: 0
+
+- title: "Temporal single-cell landscape suggests infection-induced IgM plasma cells as a correlate of durable influenza immunity"
+  image: 
+  description: 
+  authors: Li, X., Yuan, L., Li, M., Liao, Q., Jia, T., Wu, Z., Wen, S., Luo, H., Wang, D., <b>Miao, Z.</b>, Chen, Y., & Shu, Y.
+  link: 
+    url: https://www.ijidonline.com/article/S1201-9712(25)00449-7/fulltext
+    display: International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases, 108227. (2025).
+  highlight: 0
+
 - title: "Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers"
   image: 
   description: 
