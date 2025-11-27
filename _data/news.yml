@@ -1,3 +1,11 @@
+- date: 22. Nov 2025
+  headline: "We published a paper in Nucleic acids research [GlycoRNAdb: a database of glycoRNA sequences, structures, abundance, and glycan information across tissues and cell lines](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1246/8340160). \
+  We developed GlycoRNAdb database, the first comprehensive database integrating GlycoRNA sequences, structures, glycosylation sites, expression profiles, and glycan annotations across human/mouse tissues and cell lines, providing an integrative overview of this information."
+
+- date: 14. Nov 2025
+  headline: "We published a paper in International journal of infectious diseases [Temporal single-cell landscape suggests infection-induced IgM plasma cells as a correlate of durable influenza immunity](https://www.ijidonline.com/article/S1201-9712(25)00449-7/fulltext). \
+  We identify an infection-induced IgM⁺ plasma cell population with sustained HLA-II expression, absent after vaccination. These cells may contribute to long-lived immunity and represent a potential target for improving vaccine durability."
+
 - date: 21. Oct 2025
   headline: "We published a paper in Nucleic acids research [Ribocentre-aptamer: an integrative, structure-focused database for RNA aptamers](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1016/8294352). \
   We have launched the Ribocentre-aptamer database to capture the molecular mechanisms of RNA aptamer binding. Our resource systematically curates 191 aptamer types from 669 publications, integrates 510 sequences, 123 small molecule ligands, and 344 protein ligands, and provides experimentally resolved secondary and tertiary structures, ligand binding pockets, affinity metrics, and functional annotations."
