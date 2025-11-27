@@ -1,7 +1,7 @@
 - title: "GlycoRNAdb: a database of glycoRNA sequences, structures, abundance, and glycan information across tissues and cell lines"
   image: 
   description: 
-  authors: Chuxin Zheng, <b>Ying Ao</b>, Zhen Zhang, Shiqiang Mei, Abdul Hafeez, Wenkai Teng, Bin Li, Lianghu Qu, <b>Zhichao Miao<sup>*</sup></b>, Lingling Zheng
+  authors: Chuxin Zheng, <b>Ying Ao</b>, Zhen Zhang, Shiqiang Mei, Abdul Hafeez, Wenkai Teng, Bin Li, Lianghu Qu, <b>Zhichao Miao<sup>*</sup></b>, Lingling Zheng<sup>*</sup>
   link: 
     url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1246/8340160
     display: Nucleic acids research, gkaf1246. (2025).
