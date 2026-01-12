@@ -1,3 +1,7 @@
+- date: 17. Dec 2025
+  headline: "RNAcentral Consortium published a paper in Nucleic acids research [RNAcentral in 2026: genes and literature integration](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1329/8382359). \
+  RNAcentral has developed two important new features. First, it integrates literature, introducing LitScan and LitSumm, effectively connecting sequence data with functional knowledge scattered across thousands of articles. Second, RNAcentral introduces gene-level entries, integrating related transcripts into a gene-centric view. Our ribozyme, riboswitches, and RNA aptamers databases directly contribute to the RNAcentral comprehensive database, systematically summarizing the sequence-structure-function relationships of these three RNA types, providing data corpus for AI model training."
+
 - date: 1. Dec 2025
   headline: "We published a paper in Briefings in bioinformatics [Systematic identification and characterization of virus lncRNAs suggests extensive structural mimicry of host lncRNAs](https://academic.oup.com/bib/article/26/6/bbaf640/8362139). \
   We systematically identified vlncRNAs for more than 20 viral species by mining viral infection-related TGS data and further characterized their structure and function. A database named vlncRNAbase was further built to store and organize these newly identified and known vlncRNAs. It would greatly facilitate further research on vlncRNAs in the field."
