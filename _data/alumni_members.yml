@@ -143,6 +143,14 @@
   number_educ: 1
   education1: B.S. at <a href= "https://www.sysu.edu.cn"> Sun Yat-sen University, China </a>
 
+- name: Mengchang Xu
+  photo: Mengchang_Xu.jpeg
+  info: Research Assistant
+  email: 1273007233@qq.com
+  number_educ: 2
+  education1: Master at <a href= "https://www.neu.edu.cn"> Northeastern University, China</a> 
+  education2: B.S. at <a href= "https://www.smu.edu.cn"> Southern Medical University, China</a>
+  
 - name: Yalan Bi
   photo: Yalan.jpeg
   info: Visiting scientist
