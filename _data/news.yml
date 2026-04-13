@@ -1,3 +1,7 @@
+- date: 31. Mar 2026
+  headline: "We published a paper in GigaScience [scDenorm: a denormalisation tool for integrating single-cell transcriptomics data](https://doi.org/10.1093/gigascience/giag032). \
+ We developed scDenorm, a method to recover raw counts from normalized single-cell RNA-seq data and reduce inconsistencies across datasets. By reversing normalization and rescaling expression values, scDenorm improves data integration and downstream analyses, providing an efficient alternative to reprocessing raw sequencing data.
+
 - date: 4. Feb 2026
   headline: "We published a paper in Journal of Biological Chemistry [Structural Basis of DNA Aptamer A58 Targeting the N-terminal Domain of Sarbecoviruses Nucleocapsid Protein](https://www.jbc.org/article/S0021-9258(26)00103-1/fulltext). \
   We determined the crystal structure of DNA aptamer A58 in complex with the N-terminal domain of SARS-CoV-2 nucleocapsid protein, revealing a unique three-tiered stem-loop binding mode. A58 inhibits N-NTD's interaction with viral RNA and shows broad-spectrum activity against N proteins from various sarbecoviruses, highlighting its potential as an antiviral agent."
