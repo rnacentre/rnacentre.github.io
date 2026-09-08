@@ -1,3 +1,11 @@
+- date: 2. Sep 2026
+  headline: "We published a paper in Nature Communications [Structure and mechanism of HDV ribozymes revealing Lewis acid catalysis by a metal ion](https://doi.org/10.1038/s41467-026-77452-w). \
+ We determined the structures of two HDV ribozymes before and after cleavage, revealing a conserved catalytic mechanism in which a divalent metal ion acts as a Lewis acid to promote nucleophilic attack. This mechanism defines a general catalytic strategy for the HDV ribozyme family and distinguishes it from the general base catalysis used by most nucleolytic ribozymes."
+
+- date: 19. May 2026
+  headline: "We published a paper in Emerging Microbes & Infections [Enhanced immunogenicity and dose-sparing efficacy of self-amplifying RNA vaccines against seasonal influenza across subtypes](https://doi.org/10.1080/22221751.2026.2668752). \
+  We developed a trivalent self-amplifying RNA (saRNA) vaccine targeting seasonal influenza strains, revealing enhanced and strain-adaptive immunogenicity compared with conventional mRNA vaccines. A single 0.1 μg dose of saRNA induced robust and durable antibody responses and provided complete protection against influenza B virus challenge, demonstrating marked dose-sparing efficacy. These findings establish saRNA as a promising platform for overcoming the suboptimal immunogenicity of influenza B vaccines and enhancing protection against seasonal influenza."
+
 - date: 31. Mar 2026
   headline: "We published a paper in GigaScience [scDenorm: a denormalisation tool for integrating single-cell transcriptomics data](https://doi.org/10.1093/gigascience/giag032). \
   We developed scDenorm, a method to recover raw counts from normalized single-cell RNA-seq data and reduce inconsistencies across datasets. By reversing normalization and rescaling expression values, scDenorm improves data integration and downstream analyses, providing an efficient alternative to reprocessing raw sequencing data."
