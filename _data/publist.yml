@@ -1,6 +1,24 @@
 - title: "scDenorm: a denormalisation tool for integrating single-cell transcriptomics data"
   image: 
   description: 
+  authors: Yuhang Luo#, Xiaoxue Chen#, Xiaowei Lin#, Wenjian Liao#, <b>Bowen Xiao#</b>, Mengxiao Li, Zhaoji Qiu, Timothy J. Wilson, <b>Zhichao Miao</b>, Jia Wang, Lin Huang<sup>*</sup>, David M. J. Lilley<sup>*</sup>
+  link: 
+    url: https://doi.org/10.1038/s41467-026-77452-w
+    display: Nature Communications, 10.1038/s41467-026-77452-w. (2026).
+  highlight: 0
+
+- title: "Enhanced immunogenicity and dose-sparing efficacy of self-amplifying RNA vaccines against seasonal influenza across subtypes"
+  image: 
+  description: 
+  authors: Mengting Huang#, Yun Quan#, Ruyi Chen#, Hao Gu#, Wenjun Song, Feng Zhu,Simin Feng, Jinzhong Lin, Jing Lu, Xuechun Li, Wansheng Li, Qianyu Pan, Hongli Li,Lei Sun, Tao Jiang, Bihui Zhang, Xinqian Yin, Dandan Wei, Changrong Yang, Donglan Liu,Zhongfang Wang, Weixin Jia, Jincun Zhao, Jieshi Yu, Xiaobo Li, Xuedong Yu, Xiaojing Yue, Chufang Li, <b>Fan Bu</b>, <b>Zhichao Miao<sup>*</sup></b> and Qiong Zhang<sup>*</sup>
+  link: 
+    url: https://doi.org/10.1080/22221751.2026.2668752
+    display: Emerging Microbes & Infections2026, VOL. 15, 2668752. (2026).
+  highlight: 0
+
+- title: "scDenorm: a denormalisation tool for integrating single-cell transcriptomics data"
+  image: 
+  description: 
   authors: <b>Yin Huang</b> , Anna Vathrakokili Pournara , <b>Ying Ao</b> , <b>Ziliang Huang</b> , Hui Zhang , Yongjian Zhang , Sheng Liu , Alvis Brazma , Irene Papatheodorou , Xinlu Yang<sup>*</sup> , Ming Shi<sup>*</sup> , <b>Zhichao Miao<sup>*</sup></b>
   link: 
     url: https://doi.org/10.1093/gigascience/giag032
